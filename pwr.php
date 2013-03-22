@@ -101,7 +101,7 @@ $testInput = explode(',', '45,43,45,12,25,12,46,30,46,2,56,2,57,16,16,33,33,16')
 //doPWR($teams,$input,true);
 //exit(0);
 
-print_R($teamsMap);
+//print_R($teamsMap);
 
 for ($i = 393216;; $i--) {
 	$id = $i;
@@ -112,7 +112,7 @@ for ($i = 393216;; $i--) {
 	$ref = mysql_query($query);
 	$result = mysql_fetch_assoc($ref);
 
-	if ($result[t1] != null) {
+	if ($result['t1'] != null) {
 		echo 'CACHE HIT ';
 		continue;
 	}
@@ -137,6 +137,6 @@ for ($i = 393216;; $i--) {
 	if($i %100 == 0) {
 		flush();
 	}
-	break;
+	//break;
 }
 ?>
