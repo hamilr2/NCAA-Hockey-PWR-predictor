@@ -1,0 +1,1155 @@
+2012-10-05 Regina              0 at Alaska-Fairbanks    6      ex      6:15 AT
+2012-10-06 Merrimack           4 at Union               1      nc      7:00 ET
+2012-10-06 Bowling Green       2 at Niagara             2  ot  nc      4:05 ET
+2012-10-06 Quinnipiac          2 at Maine               1      nc      7:00 ET
+2012-10-06 York                3 at Connecticut         3  ot  ex      3:00 ET
+2012-10-06 Acadia              2 at Rensselaer          6      ex      7:00 ET
+2012-10-06 Toronto             2 at Mass.-Lowell        5      ex      4:00 ET
+2012-10-06 Western Ontario     2 at Western Michigan    2  ot  ex      7:05 ET
+2012-10-06 New Brunswick       0 at Boston College      6      ex      7:00 ET
+2012-10-06 Carleton            2 at St. Lawrence        3  ot  ex      7:00 ET
+2012-10-06 Ryerson             1 at Lake Superior       2      ex      7:05 ET
+2012-10-06 Ottawa              1 at RIT                 8      ex      7:05 ET
+2012-10-06 Manitoba            3 at North Dakota        5      ex      7:07 CT
+2012-10-06 St. Francis Xavier  2 at New Hampshire       5      ex      7:00 ET
+2012-10-06 British Columbia    2 at Denver              2  ot  ex      7:07 MT
+2012-10-06 Queen's             0 at Colgate             1      ex      7:30 ET
+2012-10-06 Wilfrid Laurier     1 at Mercyhurst          3      ex      7:05 ET
+2012-10-06 US Under-18 Team    0 at Wisconsin           5      ex      8:07 CT
+2012-10-06 Lethbridge          0 at Minnesota           7      ex      7:07 CT
+2012-10-06 Regina              1 vs Alaska-Anchorage    3      ex      7:07 AT
+2012-10-06 Concordia           1 at Vermont             7      ex      7:05 ET
+2012-10-06 Alabama             1 at Alabama-Huntsville 12      ex      7:00 CT
+2012-10-06 Brock               2 at Michigan Tech       6      ex      7:07 ET
+2012-10-07 Lethbridge          1 at Minnesota State     7      ex      5:07 CT
+2012-10-07 New Brunswick       2 at Maine               2  ot  ex      4:00 ET
+2012-10-07 Ryerson             2 at Ferris State        8      ex      3:05 ET
+2012-10-07 British Columbia    1 at Colorado College    3      ex      6:07 MT
+2012-10-07 Ontario IT          1 at Bowling Green       9      ex      5:05 ET
+2012-10-07 Waterloo            2 at Ohio State          3  ot  ex      2:05 ET
+2012-10-07 Toronto             0 at Boston University   5      ex      1:00 ET
+2012-10-07 Brock               0 at Northern Michigan   2      ex      2:05 ET
+2012-10-07 Acadia              2 at Quinnipiac          0      ex      4:00 ET
+2012-10-07 Wilfrid Laurier     4 at Robert Morris      10      ex      7:05 ET
+2012-10-07 St. Francis Xavier  4 at Northeastern        3      ex      2:00 ET
+2012-10-07 Manitoba            3 at Bemidji State       3  ot  ex      5:07 CT
+2012-10-07 Ottawa              5 at Canisius            2      ex      2:05 ET
+2012-10-07 Alabama             0 at Alabama-Huntsville 10      ex      3:00 CT
+2012-10-07 Carleton            6 at Clarkson            2      ex      4:00 ET
+2012-10-07 US Under-18 Team    1 at Notre Dame          1  ot  ex      5:05 ET
+2012-10-07 Western Ontario     2 at Miami               6      ex      4:05 ET
+2012-10-07 St. Thomas          4 at Sacred Heart        3      ex      4:00 ET
+2012-10-08 Windsor             1 at Michigan State      6      ex      7:05 ET
+2012-10-08 British Columbia    4 at Air Force           2      ex      6:05 MT
+2012-10-08 Lethbridge          1 at Nebraska-Omaha      4      ex      7:07 CT
+2012-10-09 Niagara             2 at Colgate            10      nc      7:00 ET
+2012-10-09 Windsor             3 at Michigan            7      ex      7:35 ET
+2012-10-10 Merrimack           2 at Northeastern        4      he      7:00 ET
+2012-10-11 Michigan Tech       2 at Lake Superior       4      nc      7:35 ET
+2012-10-11 RIT                 5 at Michigan            4  ot  nc      7:35 ET
+2012-10-12 Vermont             1 at Mass.-Lowell        1  ot  he      7:00 ET
+2012-10-12 Clarkson            4 at Colorado College    5      nc      7:37 MT
+2012-10-12 Union               5 at Bowling Green       3      nc      7:05 ET
+2012-10-12 St. Lawrence        4 at Western Michigan    3  ot  nc      7:05 ET
+2012-10-12 Wisconsin           1 vs Northern Michigan   2      nc      7:05 CT
+2012-10-12 Ferris State        1 at Rensselaer          3      nc      7:05 ET
+2012-10-12 American Int'l      3 at Penn State          2  ot  nc      7:30 ET
+2012-10-12 Ohio State          2 at Minnesota-Duluth    6      nc      7:07 CT
+2012-10-12 Connecticut         1 at Massachusetts       4      nc      7:00 ET
+2012-10-12 Sacred Heart        2 at Providence          8      nc      7:00 ET
+2012-10-12 St. Cloud State     3 at New Hampshire       5      nc      7:00 ET
+2012-10-12 RIT                 2 at Michigan            7      nc      7:35 ET
+2012-10-12 Minnesota State     4 at Alabama-Huntsville  1      nc      7:07 CT
+2012-10-12 Michigan State      1 at Minnesota           5      nc      6:07 CT
+2012-10-12 Colgate             0 at Miami               3      nc      7:00 ET
+2012-10-12 Notre Dame          1 vs Maine               0      nc      6:00 CT
+2012-10-12 Army                1 vs Nebraska-Omaha      5      nc      9:00 CT
+2012-10-12 Air Force           3 vs Alaska-Fairbanks    3  ot  nc      5:07 AT
+2012-10-12 Canisius            0 at Alaska-Anchorage    2      nc      8:07 AT
+2012-10-12 US Under 18 Team    4 at North Dakota        6      ex      7:37 CT
+2012-10-13 Mercyhurst          1 at Niagara             2      ah      7:05 ET
+2012-10-13 Providence          2 at Boston University   4      he      7:00 ET
+2012-10-13 Boston College      1 at Northeastern        3      he      7:00 ET
+2012-10-13 Wisconsin           2 vs Northern Michigan   4      nc      7:05 CT
+2012-10-13 Ferris State        2 at Rensselaer          2  ot  nc      7:05 ET
+2012-10-13 American Int'l      3 vs Penn State          4  ot  nc      7:00 ET
+2012-10-13 Ohio State          3 at Minnesota-Duluth    2      nc      7:07 CT
+2012-10-13 Robert Morris       0 at Quinnipiac          4      nc      4:00 ET
+2012-10-13 St. Cloud State     2 at New Hampshire       4      nc      7:00 ET
+2012-10-13 Minnesota State     2 at Alabama-Huntsville  2  ot  nc      7:07 CT
+2012-10-13 Michigan State      1 at Minnesota           7      nc      8:07 CT
+2012-10-13 Colgate             1 at Miami               5      nc      7:00 ET
+2012-10-13 Lake Superior       4 at Michigan Tech       8      nc      7:07 ET
+2012-10-13 Clarkson            4 at Colorado College    5      nc      7:07 MT
+2012-10-13 Union               4 at Bowling Green       1      nc      7:05 ET
+2012-10-13 St. Lawrence        2 at Western Michigan    3      nc      7:05 ET
+2012-10-13 Notre Dame          3 vs Nebraska-Omaha      2      nc      6:30 CT
+2012-10-13 Maine               4 vs Army                3      nc      3:30 CT
+2012-10-13 Air Force           3 at Alaska-Anchorage    3  ot  nc      7:07 AT
+2012-10-13 Canisius            3 vs Alaska-Fairbanks    1      nc      4:07 AT
+2012-10-13 US Under-18 Team    3 at Bemidji State       4      ex      7:07 CT
+2012-10-14 Robert Morris       4 at Quinnipiac          0      nc     12:00 ET
+2012-10-16 Sacred Heart        1 at Bentley             7      ah      7:05 ET
+2012-10-16 Holy Cross          6 at American Int'l      2      ah      7:05 ET
+2012-10-18 Minnesota-Duluth    3 at Notre Dame          1      nc      7:35 ET
+2012-10-19 Sacred Heart        2 at Army                5      ah      7:05 ET
+2012-10-19 Boston College      5 at Massachusetts       4  ot  he      7:00 ET
+2012-10-19 Minnesota           3 at Michigan Tech       5      wc      7:07 ET
+2012-10-19 Ohio State          1 at Quinnipiac          1  ot  nc      7:00 ET
+2012-10-19 Niagara             2 at Michigan State      3      nc      7:00 ET
+2012-10-19 Alabama-Huntsville  3 at St. Cloud State     8      nc      7:37 CT
+2012-10-19 Providence          1 at Miami               1  ot  nc      7:35 ET
+2012-10-19 Bowling Green       3 at Colgate             1      nc      7:00 ET
+2012-10-19 Bentley             3 at Michigan            6      nc      7:35 ET
+2012-10-19 Lake Superior       2 at Bemidji State       0      nc      7:37 CT
+2012-10-19 Minnesota-Duluth    1 at Notre Dame          4      nc      7:35 ET
+2012-10-19 Colorado College    6 at Air Force           2      nc      7:05 MT
+2012-10-19 Northern Michigan   2 at Nebraska-Omaha      5      nc      7:37 CT
+2012-10-19 Mass.-Lowell        1 at Denver              5      nc      7:37 MT
+2012-10-19 St. Lawrence        5 at Maine               0      nc      7:00 ET
+2012-10-19 Canisius            0 at Western Michigan    3      nc      7:05 ET
+2012-10-19 Rensselaer          3 at Minnesota State     3  ot  nc      7:37 CT
+2012-10-19 Mercyhurst          3 at Ferris State        7      nc      7:05 ET
+2012-10-19 Merrimack           2 at Alaska-Fairbanks    3      nc      8:05 AT
+2012-10-19 North Dakota        5 vs Alaska-Anchorage    0      nc      5:05 AT
+2012-10-19 US Under-18 Team    2 at Cornell             6      ex      7:00 ET
+2012-10-19 Guelph              3 at Princeton           2  ot  ex      7:00 ET
+2012-10-19 McGill              1 at Harvard             5      ex      7:00 ET
+2012-10-19 Penn State          0 at Buffalo State       3      ex      7:00 ET
+2012-10-20 Army                4 at Sacred Heart        4  ot  ah      7:05 ET
+2012-10-20 Boston University   1 at New Hampshire       4      he      7:00 ET
+2012-10-20 Northeastern        0 at Boston College      3      he      7:00 ET
+2012-10-20 Minnesota           3 at Michigan Tech       2      wc      7:07 ET
+2012-10-20 Niagara             3 at Michigan State      3  ot  nc      7:00 ET
+2012-10-20 Alabama-Huntsville  0 at St. Cloud State     4      nc      7:07 CT
+2012-10-20 Providence          3 at Miami               4  ot  nc      7:05 ET
+2012-10-20 Bowling Green       2 at Colgate             4      nc      7:00 ET
+2012-10-20 Lake Superior       0 at Bemidji State       5      nc      7:07 CT
+2012-10-20 Northern Michigan   2 at Nebraska-Omaha      1      nc      7:07 CT
+2012-10-20 Air Force           2 at Denver              5      nc      7:07 MT
+2012-10-20 St. Lawrence        5 at Maine               1      nc      7:00 ET
+2012-10-20 Holy Cross          3 at Clarkson            1      nc      7:00 ET
+2012-10-20 Canisius            1 at Western Michigan    2      nc      7:05 ET
+2012-10-20 Rensselaer          3 at Minnesota State     4  ot  nc      7:07 CT
+2012-10-20 Mass.-Lowell        3 at Colorado College    1      nc      7:07 MT
+2012-10-20 Penn State          3 vs RIT                 2      nc      7:35 ET
+2012-10-20 Mercyhurst          3 at Ferris State        3  ot  nc      7:05 ET
+2012-10-20 Ohio State          1 at Quinnipiac          3      nc      4:00 ET
+2012-10-20 North Dakota        1 at Alaska-Fairbanks    2      nc      7:05 AT
+2012-10-20 Merrimack           3 vs Alaska-Anchorage    6      nc      4:05 AT
+2012-10-20 Brock               2 at Cornell             2  ot  ex      7:00 ET
+2012-10-20 Guelph              6 at Princeton           5      ex      4:00 ET
+2012-10-20 McGill              1 at Dartmouth           2      ex      4:00 ET
+2012-10-21 Norwich             3 at Dartmouth           4      ex      4:00 ET
+2012-10-25 Robert Morris       6 at RIT                 4      ah      7:05 ET
+2012-10-25 Air Force           1 at Canisius            1  ot  ah      7:05 ET
+2012-10-26 Connecticut         1 at Holy Cross          2      ah      7:00 ET
+2012-10-26 Alaska-Fairbanks    3 at Ferris State        6      cc      7:05 ET
+2012-10-26 Michigan State      2 at Lake Superior       3      cc      7:35 ET
+2012-10-26 Miami               2 at Michigan            4      cc      7:35 ET
+2012-10-26 Ohio State          1 at Bowling Green       0      cc      7:05 ET
+2012-10-26 Notre Dame          5 at Northern Michigan   2      cc      7:35 ET
+2012-10-26 Northeastern        3 at New Hampshire       4      he      7:30 ET
+2012-10-26 Vermont             3 at Merrimack           6      he      7:30 ET
+2012-10-26 Maine               2 at Providence          3      he      7:00 ET
+2012-10-26 Boston College      1 at Mass.-Lowell        0      he      7:00 ET
+2012-10-26 Massachusetts       2 at Boston University   5      he      7:30 ET
+2012-10-26 Wisconsin           2 at Minnesota-Duluth    0      wc      7:07 CT
+2012-10-26 Bemidji State       3 at Nebraska-Omaha      3  ot  wc      7:37 CT
+2012-10-26 Michigan Tech       1 at Denver              5      wc      7:37 MT
+2012-10-26 Alaska-Anchorage    1 at North Dakota        4      wc      7:37 CT
+2012-10-26 Minnesota State     1 at St. Cloud State     5      wc      7:37 CT
+2012-10-26 Colorado College    0 at Cornell             2      nc      7:00 ET
+2012-10-26 RIT                 3 at Colgate             6      nc      7:00 ET
+2012-10-26 Alabama-Huntsville  1 at Bentley             9      nc      7:05 ET
+2012-10-26 Union               8 at American Int'l      0      nc      7:05 ET
+2012-10-26 Niagara             2 at Clarkson            0      nc      7:00 ET
+2012-10-26 Penn State          5 at Army                0      nc      7:05 ET
+2012-10-26 Princeton           1 at Brown               2      nc      7:00 ET
+2012-10-26 Yale                2 vs Dartmouth           2  ot  nc      4:00 ET
+2012-10-26 US Under-18 Team    2 at Minnesota           2  ot  ex      7:07 CT
+2012-10-27 Air Force           4 at Robert Morris       1      ah      7:05 ET
+2012-10-27 Army                7 at Holy Cross          2      ah      7:00 ET
+2012-10-27 Alaska-Fairbanks    3 at Ferris State        2      cc      7:05 ET
+2012-10-27 Michigan State      4 at Lake Superior       2      cc      7:05 ET
+2012-10-27 Miami               4 at Michigan            3      cc      7:35 ET
+2012-10-27 Ohio State          3 at Bowling Green       3  ot  cc      7:05 ET
+2012-10-27 Notre Dame          3 at Northern Michigan   2      cc      7:35 ET
+2012-10-27 Vermont             2 at Merrimack           2  ot  he      7:00 ET
+2012-10-27 Boston University   3 at Massachusetts       2      he      7:00 ET
+2012-10-27 Maine               0 at Providence          3      he      7:00 ET
+2012-10-27 New Hampshire       0 at Northeastern        0  ot  he      7:00 ET
+2012-10-27 Bemidji State       3 at Nebraska-Omaha      2      wc      7:07 CT
+2012-10-27 Michigan Tech       2 at Denver              5      wc      7:07 MT
+2012-10-27 Alaska-Anchorage    3 at North Dakota        3  ot  wc      7:07 CT
+2012-10-27 Minnesota State     1 at St. Cloud State     5      wc      7:07 CT
+2012-10-27 Wisconsin           2 at Minnesota-Duluth    2  ot  wc      7:07 CT
+2012-10-27 Alabama-Huntsville  3 at American Int'l      4      nc      7:05 ET
+2012-10-27 Bentley             0 at Harvard             5      nc      7:00 ET
+2012-10-27 Niagara             4 at Clarkson            4  ot  nc      7:30 ET
+2012-10-27 Penn State          6 at Sacred Heart        3      nc      7:00 ET
+2012-10-27 Union               2 at Connecticut         2  ot  nc      7:05 ET
+2012-10-27 Quinnipiac          1 vs Colgate             5      nc      7:00 ET
+2012-10-27 Colorado College    2 at Cornell             3      nc      7:00 ET
+2012-10-27 Princeton           2 vs Yale                3      nc      4:00 ET
+2012-10-27 Dartmouth           4 at Brown               0      nc      7:00 ET
+2012-10-28 Mass.-Lowell        3 at Boston College      6      he      4:00 ET
+2012-10-28 Canisius            0 at Minnesota           1      nc      1:07 CT
+2012-11-02 Bentley             2 at Robert Morris       5      ah      7:05 ET
+2012-11-02 Holy Cross          3 at Air Force           2      ah      7:05 MT
+2012-11-02 Mercyhurst          3 at Sacred Heart        0      ah      7:05 ET
+2012-11-02 Connecticut         0 at Niagara             3      ah      7:00 ET
+2012-11-02 RIT                 2 at American Int'l      2  ot  ah      7:05 ET
+2012-11-02 Western Michigan    3 at Notre Dame          2      cc      7:35 ET
+2012-11-02 Michigan            4 at Northern Michigan   4  ot  cc      7:35 ET
+2012-11-02 Miami               0 at Ferris State        3      cc      7:05 ET
+2012-11-02 Lake Superior       1 at Alaska-Fairbanks    2      cc      7:05 AT
+2012-11-02 Bowling Green       1 at Michigan State      0      cc      5:05 ET
+2012-11-02 Brown               2 at Harvard             3      ec      7:00 ET
+2012-11-02 Yale                4 at Dartmouth           7      ec      7:00 ET
+2012-11-02 Union               4 at Rensselaer          2      ec      7:00 ET
+2012-11-02 Cornell             3 at Colgate             1      ec      7:00 ET
+2012-11-02 Boston College      4 at Maine               2      he      7:00 ET
+2012-11-02 Merrimack           5 at Northeastern        2      he      7:00 ET
+2012-11-02 Providence          3 at Vermont             2      he      7:05 ET
+2012-11-02 New Hampshire       1 at Massachusetts       2  ot  he      7:00 ET
+2012-11-02 Minnesota State     2 at Minnesota           3      wc      7:07 CT
+2012-11-02 Nebraska-Omaha      2 at Michigan Tech       1      wc      7:07 ET
+2012-11-02 Colorado College    5 at Wisconsin           4  ot  wc      7:07 CT
+2012-11-02 St. Cloud State     3 at Denver              0      wc      7:37 MT
+2012-11-02 Alabama-Huntsville  0 at St. Lawrence        4      nc      7:00 ET
+2012-11-02 Boston University   2 at North Dakota        4      nc      7:37 CT
+2012-11-03 Bentley             5 at Robert Morris       4      ah      7:05 ET
+2012-11-03 Holy Cross          0 at Air Force           7      ah      7:05 MT
+2012-11-03 Mercyhurst          3 at Sacred Heart        1      ah      4:00 ET
+2012-11-03 Connecticut         0 at Niagara             5      ah      7:00 ET
+2012-11-03 RIT                 3 at American Int'l      0      ah      7:05 ET
+2012-11-03 Michigan            3 at Northern Michigan   4      cc      7:35 ET
+2012-11-03 Michigan State      6 at Bowling Green       1      cc      7:05 ET
+2012-11-03 Miami               4 at Ferris State        2      cc      7:05 ET
+2012-11-03 Lake Superior       4 at Alaska-Fairbanks    2      cc      7:05 AT
+2012-11-03 Brown               1 at Dartmouth           2      ec      7:00 ET
+2012-11-03 Colgate             2 at Cornell             2  ot  ec      7:00 ET
+2012-11-03 Rensselaer          3 at Union               7      ec      7:00 ET
+2012-11-03 Yale                5 at Harvard             1      ec      7:00 ET
+2012-11-03 Providence          0 at Vermont             2      he      7:05 ET
+2012-11-03 Northeastern        2 at Merrimack           4      he      7:30 ET
+2012-11-03 Nebraska-Omaha      5 at Michigan Tech       3      wc      7:07 ET
+2012-11-03 Minnesota           3 at Minnesota State     5      wc      7:07 CT
+2012-11-03 Colorado College    3 at Wisconsin           0      wc      7:07 CT
+2012-11-03 St. Cloud State     1 at Denver              6      wc      7:07 MT
+2012-11-03 Clarkson            3 at Canisius            3  ot  nc      3:05 ET
+2012-11-03 Alabama-Huntsville  1 at St. Lawrence        3      nc      7:00 ET
+2012-11-03 Boston University   4 at North Dakota        2      nc      7:07 CT
+2012-11-03 Buffalo State       2 at Penn State          4      ex      7:30 ET
+2012-11-04 Western Michigan    0 at Notre Dame          4      cc      5:05 ET
+2012-11-04 New Hampshire       4 at Maine               0      he      4:00 ET
+2012-11-04 Massachusetts       2 at Boston College      3      he      4:00 ET
+2012-11-04 Clarkson            2 at Canisius            2  ot  nc      3:05 ET
+2012-11-06 American Int'l      2 at Quinnipiac          1      nc      7:00 ET
+2012-11-09 Robert Morris       4 at Canisius            0      ah      7:05 ET
+2012-11-09 Mercyhurst          5 at RIT                 3      ah      7:05 ET
+2012-11-09 Sacred Heart        3 at Connecticut         5      ah      7:05 ET
+2012-11-09 Bentley             3 at Holy Cross          4      ah      7:00 ET
+2012-11-09 Niagara             5 at Army                0      ah      7:05 ET
+2012-11-09 Northern Michigan   2 at Miami               5      cc      7:35 ET
+2012-11-09 Alaska-Fairbanks    1 at Ohio State          1  ot  cc      7:05 ET
+2012-11-09 Bowling Green       1 at Western Michigan    3      cc      7:05 ET
+2012-11-09 Ferris State        1 at Lake Superior       4      cc      7:35 ET
+2012-11-09 Michigan State      1 at Michigan            5      cc      7:35 ET
+2012-11-09 Rensselaer          0 at Dartmouth           4      ec      7:00 ET
+2012-11-09 Clarkson            1 at Yale                0      ec      7:00 ET
+2012-11-09 Cornell             3 at Princeton           5      ec      7:00 ET
+2012-11-09 Colgate             2 at Quinnipiac          3  ot  ec      7:00 ET
+2012-11-09 Union               6 at Harvard             2      ec      7:00 ET
+2012-11-09 St. Lawrence        3 at Brown               3  ot  ec      7:00 ET
+2012-11-09 Maine               1 at Mass.-Lowell        2      he      7:00 ET
+2012-11-09 Boston University   3 at Merrimack           1      he      7:30 ET
+2012-11-09 Providence          0 at Massachusetts       4      he      7:00 ET
+2012-11-09 Denver              4 at Minnesota State     3      wc      7:37 CT
+2012-11-09 Minnesota           4 at Alaska-Anchorage    0      wc      7:07 AT
+2012-11-09 Bemidji State       2 at Colorado College    3      wc      7:37 MT
+2012-11-09 North Dakota        3 at St. Cloud State     0      wc      7:37 CT
+2012-11-09 Notre Dame          1 at Boston College      3      nc      7:00 ET
+2012-11-09 Air Force           5 at Penn State          1      nc      7:30 ET
+2012-11-10 Canisius            6 at RIT                 3      ah      7:00 ET
+2012-11-10 Niagara             4 at Army                1      ah      7:05 ET
+2012-11-10 Western Michigan    2 at Bowling Green       2  ot  cc      7:05 ET
+2012-11-10 Ferris State        2 at Lake Superior       1      cc      7:05 ET
+2012-11-10 Michigan            2 at Michigan State      7      cc      7:05 ET
+2012-11-10 Northern Michigan   2 at Miami               2  ot  cc      7:05 ET
+2012-11-10 Alaska-Fairbanks    3 at Ohio State          1      cc      7:05 ET
+2012-11-10 St. Lawrence        2 at Yale                4      ec      7:00 ET
+2012-11-10 Colgate             0 at Princeton           4      ec      4:00 ET
+2012-11-10 Cornell             1 at Quinnipiac          4      ec      7:00 ET
+2012-11-10 Rensselaer          0 at Harvard             4      ec      7:00 ET
+2012-11-10 Clarkson            3 at Brown               3  ot  ec      4:00 ET
+2012-11-10 Union               2 at Dartmouth           3      ec      7:00 ET
+2012-11-10 Maine               4 at Mass.-Lowell        3      he      7:00 ET
+2012-11-10 Vermont             0 at New Hampshire       4      he      7:00 ET
+2012-11-10 Denver              3 at Minnesota State     2      wc      7:07 CT
+2012-11-10 Minnesota           2 at Alaska-Anchorage    2  ot  wc      7:07 AT
+2012-11-10 Bemidji State       3 at Colorado College    6      wc      7:07 MT
+2012-11-10 North Dakota        2 at St. Cloud State     5      wc      7:07 CT
+2012-11-10 Minnesota-Duluth    2 at Nebraska-Omaha      3      wc      7:07 CT
+2012-11-10 Alabama-Huntsville  0 at Northeastern        3      nc      7:00 ET
+2012-11-10 Connecticut         3 at Merrimack           1      nc      7:00 ET
+2012-11-10 Air Force           1 at Penn State          5      nc      7:30 ET
+2012-11-11 Holy Cross          6 at Sacred Heart        3      ah     12:00 ET
+2012-11-11 Boston College      4 at Boston University   2      he      5:00 ET
+2012-11-11 Minnesota-Duluth    3 at Nebraska-Omaha      6      wc      2:07 CT
+2012-11-11 Alabama-Huntsville  1 at Northeastern        3      nc      7:00 ET
+2012-11-15 Notre Dame          3 at Michigan            1      cc      7:35 ET
+2012-11-16 Sacred Heart        2 at Army                3      ah      7:05 ET
+2012-11-16 Bentley             7 at American Int'l      3      ah      7:05 ET
+2012-11-16 Niagara             2 at Canisius            1      ah      7:05 ET
+2012-11-16 Ferris State        4 at Bowling Green       3  ot  cc      7:05 ET
+2012-11-16 Western Michigan    1 at Alaska-Fairbanks    6      cc      7:35 AT
+2012-11-16 Notre Dame          4 at Michigan            1      cc      7:35 ET
+2012-11-16 Michigan State      2 at Miami               2  ot  cc      7:35 ET
+2012-11-16 Northern Michigan   0 at Ohio State          2      cc      7:05 ET
+2012-11-16 Quinnipiac          5 at Clarkson            2      ec      7:00 ET
+2012-11-16 Harvard             4 at Cornell             1      ec      7:30 ET
+2012-11-16 Princeton           3 at St. Lawrence        3  ot  ec      7:00 ET
+2012-11-16 Dartmouth           4 at Colgate             5      ec      7:00 ET
+2012-11-16 Massachusetts       2 at Maine               2  ot  he      7:00 ET
+2012-11-16 New Hampshire       3 at Mass.-Lowell        0      he      7:00 ET
+2012-11-16 Boston University   6 at Vermont             2      he      7:05 ET
+2012-11-16 Merrimack           3 at Boston College      4      he      7:00 ET
+2012-11-16 Northeastern        2 at Providence          6      he      7:00 ET
+2012-11-16 Michigan Tech       5 at Bemidji State       4  ot  wc      7:37 CT
+2012-11-16 Denver              6 at Colorado College    5      wc      7:37 MT
+2012-11-16 Minnesota-Duluth    4 at North Dakota        4  ot  wc      7:37 CT
+2012-11-16 Wisconsin           2 at Minnesota           2  ot  wc      7:07 CT
+2012-11-16 Alabama-Huntsville  2 at Lake Superior       1      nc      7:35 ET
+2012-11-16 Mercyhurst          2 at Rensselaer          4      nc      7:00 ET
+2012-11-17 American Int'l      2 at Sacred Heart        2  ot  ah      4:00 ET
+2012-11-17 RIT                 3 at Holy Cross          7      ah      3:05 ET
+2012-11-17 Robert Morris       0 at Niagara             3      ah      7:00 ET
+2012-11-17 Connecticut         1 at Bentley             3      ah      7:05 ET
+2012-11-17 Western Michigan    3 at Alaska-Fairbanks    2      cc      7:35 AT
+2012-11-17 Michigan State      0 at Miami               2      cc      7:05 ET
+2012-11-17 Northern Michigan   2 at Ohio State          4      cc      7:05 ET
+2012-11-17 Ferris State        3 at Bowling Green       1      cc      7:05 ET
+2012-11-17 Dartmouth           1 at Cornell             1  ot  ec      7:00 ET
+2012-11-17 Quinnipiac          6 at St. Lawrence        2      ec      4:00 ET
+2012-11-17 Harvard             0 at Colgate             1      ec      7:00 ET
+2012-11-17 Princeton           2 at Clarkson            7      ec      7:00 ET
+2012-11-17 Minnesota-Duluth    3 at North Dakota        4  ot  wc      7:07 CT
+2012-11-17 Colorado College    2 at Denver              6      wc      7:07 MT
+2012-11-17 Wisconsin           1 at Minnesota           3      wc      7:07 CT
+2012-11-17 Michigan Tech       2 at Bemidji State       1  ot  wc      7:07 CT
+2012-11-17 Alabama-Huntsville  0 at Lake Superior       4      nc      7:05 ET
+2012-11-17 Mercyhurst          1 at Rensselaer          4      nc      7:00 ET
+2012-11-17 Army                0 at Brown               3      nc      7:00 ET
+2012-11-18 RIT                 3 at Holy Cross          3  ot  ah      3:05 ET
+2012-11-18 Northeastern        2 at Vermont             3      he      7:05 ET
+2012-11-18 Mass.-Lowell        8 at Massachusetts       2      he      7:00 ET
+2012-11-18 New Hampshire       3 at Boston University   1      he      1:00 ET
+2012-11-20 Vermont             1 at Massachusetts       3      he      7:00 ET
+2012-11-20 Quinnipiac          2 at Providence          0      nc      7:00 ET
+2012-11-21 Bowling Green       1 at Michigan            3      cc      7:35 ET
+2012-11-23 Air Force           1 at Connecticut         2      ah      4:00 ET
+2012-11-23 Mercyhurst          4 at Bentley             3  ot  ah      7:05 ET
+2012-11-23 Alaska-Fairbanks    3 at Northern Michigan   4  ot  cc      7:35 ET
+2012-11-23 Ohio State          4 at Lake Superior       1      cc      7:35 ET
+2012-11-23 Minnesota State     4 at Wisconsin           2      wc      7:00 CT
+2012-11-23 St. Cloud State     1 at Minnesota-Duluth    2      wc      7:37 CT
+2012-11-23 Alaska-Anchorage    2 at Bemidji State       2  ot  wc      7:37 CT
+2012-11-23 Minnesota           5 at Vermont             1      nc      7:05 ET
+2012-11-23 Princeton           4 at Sacred Heart        3      nc      4:00 ET
+2012-11-23 Colgate             1 at Merrimack           1  ot  nc      4:00 ET
+2012-11-23 Yale                2 at Denver              1  ot  nc      7:37 MT
+2012-11-23 Alabama-Huntsville  2 at Nebraska-Omaha      3      nc      7:37 CT
+2012-11-23 St. Lawrence        5 at Northeastern        2      nc      7:00 ET
+2012-11-23 Clarkson            3 at RIT                 3  ot  nc      7:05 ET
+2012-11-23 New Hampshire       4 at Colorado College    4  ot  nc      7:37 MT
+2012-11-23 North Dakota        2 at Notre Dame          1      nc      7:35 ET
+2012-11-24 Air Force           2 at Connecticut         3  ot  ah      3:30 ET
+2012-11-24 Mercyhurst          1 at Bentley             5      ah      4:05 ET
+2012-11-24 American Int'l      1 at Canisius            1  ot  ah      4:05 ET
+2012-11-24 Alaska-Fairbanks    2 at Northern Michigan   2  ot  cc      7:35 ET
+2012-11-24 Ohio State          2 at Lake Superior       3      cc      7:05 ET
+2012-11-24 Minnesota State     4 at Wisconsin           2      wc      7:00 CT
+2012-11-24 St. Cloud State     5 at Minnesota-Duluth    1      wc      7:07 CT
+2012-11-24 Alaska-Anchorage    4 at Bemidji State       5      wc      7:07 CT
+2012-11-24 New Hampshire       6 at Denver              4      nc      7:07 MT
+2012-11-24 Alabama-Huntsville  0 at Nebraska-Omaha      8      nc      7:07 CT
+2012-11-24 Dartmouth           3 at Boston College      6      nc      4:00 ET
+2012-11-24 Providence          7 at Brown               0      nc      4:00 ET
+2012-11-24 St. Lawrence        0 at Boston University   4      nc      7:00 ET
+2012-11-24 Penn State          0 at Union               2      nc      7:00 ET
+2012-11-24 Michigan            1 vs Cornell             5      nc      8:00 ET
+2012-11-24 Quinnipiac          2 at Massachusetts       2  ot  nc      7:00 ET
+2012-11-24 Yale                6 at Colorado College    5  ot  nc      7:07 MT
+2012-11-24 North Dakota        2 at Notre Dame          5      nc      5:05 ET
+2012-11-24 Minnesota           3 at Vermont             1      nc      7:05 ET
+2012-11-24 Princeton           1 at Mass.-Lowell        3      nc      4:00 ET
+2012-11-25 American Int'l      1 at Canisius            4      ah      4:05 ET
+2012-11-25 Holy Cross          2 at Brown               3      nc      4:00 ET
+2012-11-25 Penn State          1 at Union               4      nc      4:00 ET
+2012-11-29 Army                3 at Bentley             2      ah      7:05 ET
+2012-11-30 Mercyhurst          5 at Air Force           4      ah      7:05 MT
+2012-11-30 Robert Morris       4 at Holy Cross          3      ah      7:00 ET
+2012-11-30 Sacred Heart        3 at Niagara             5      ah      7:00 ET
+2012-11-30 Canisius            3 at Connecticut         0      ah      7:05 ET
+2012-11-30 Miami               5 at Alaska-Fairbanks    2      cc      7:05 AT
+2012-11-30 Northern Michigan   2 at Western Michigan    4      cc      7:05 ET
+2012-11-30 Michigan            0 at Ferris State        5      cc      7:05 ET
+2012-11-30 Ohio State          1 at Michigan State      0      cc      8:05 ET
+2012-11-30 Lake Superior       2 at Notre Dame          3      cc      7:35 ET
+2012-11-30 Clarkson            1 at Cornell             3      ec      7:00 ET
+2012-11-30 Quinnipiac          4 at Union               0      ec      7:00 ET
+2012-11-30 Princeton           2 at Rensselaer          2  ot  ec      7:00 ET
+2012-11-30 St. Lawrence        4 at Colgate             2      ec      7:00 ET
+2012-11-30 Northeastern        1 at Massachusetts       0      he      7:00 ET
+2012-11-30 Providence          3 at Merrimack           2  ot  he      7:30 ET
+2012-11-30 Boston College      2 at Boston University   4      he      7:30 ET
+2012-11-30 Mass.-Lowell        2 at New Hampshire       5      he      7:00 ET
+2012-11-30 Vermont             2 at Maine               1      he      7:00 ET
+2012-11-30 Wisconsin           1 at Denver              1  ot  wc      7:37 MT
+2012-11-30 St. Cloud State     4 at Alaska-Anchorage    3  ot  wc      7:07 AT
+2012-11-30 Nebraska-Omaha      3 at Minnesota           2      wc      7:07 CT
+2012-11-30 North Dakota        3 at Colorado College    5      wc      7:37 MT
+2012-11-30 Minnesota-Duluth    7 at Michigan Tech       3      wc      7:07 ET
+2012-11-30 Bemidji State       0 at Minnesota State     3      wc      7:37 CT
+2012-11-30 Arizona State       3 at Penn State          8      ex      7:30 ET
+2012-11-30 US Under 18 Team    6 at Alabama-Huntsville  2      ex      7:00 CT
+2012-12-01 Sacred Heart        2 at Niagara             5      ah      7:00 ET
+2012-12-01 American Int'l      2 at Army                3      ah      7:05 ET
+2012-12-01 Canisius            3 at Connecticut         1      ah      7:05 ET
+2012-12-01 Robert Morris       1 at Holy Cross          1  ot  ah      7:00 ET
+2012-12-01 Northern Michigan   0 at Western Michigan    1      cc      7:05 ET
+2012-12-01 Ohio State          3 at Michigan State      1      cc      6:05 ET
+2012-12-01 Lake Superior       1 at Notre Dame          6      cc      7:05 ET
+2012-12-01 Michigan            3 at Ferris State        3  ot  cc      7:05 ET
+2012-12-01 Miami               4 at Alaska-Fairbanks    0      cc      7:05 AT
+2012-12-01 St. Lawrence        1 at Cornell             3      ec      7:00 ET
+2012-12-01 Princeton           4 at Union               4  ot  ec      4:00 ET
+2012-12-01 Quinnipiac          3 at Rensselaer          1      ec      7:00 ET
+2012-12-01 Clarkson            4 at Colgate             5  ot  ec      7:00 ET
+2012-12-01 Brown               3 at Yale                4      ec      7:00 ET
+2012-12-01 Boston University   2 at Boston College      5      he      7:30 ET
+2012-12-01 Merrimack           2 at Providence          1      he      7:00 ET
+2012-12-01 Vermont             2 at Maine               2  ot  he      7:00 ET
+2012-12-01 New Hampshire       5 at Mass.-Lowell        2      he      7:00 ET
+2012-12-01 Massachusetts       6 at Northeastern        3      he      7:00 ET
+2012-12-01 Nebraska-Omaha      2 at Minnesota           3      wc      7:07 CT
+2012-12-01 North Dakota        3 at Colorado College    2  ot  wc      7:07 MT
+2012-12-01 Minnesota-Duluth    4 at Michigan Tech       4  ot  wc      7:07 ET
+2012-12-01 Bemidji State       1 at Minnesota State     6      wc      7:07 CT
+2012-12-01 Wisconsin           3 at Denver              1      wc      7:07 MT
+2012-12-01 St. Cloud State     1 at Alaska-Anchorage    3      wc      7:07 AT
+2012-12-01 Bentley             2 at Dartmouth           5      nc      7:00 ET
+2012-12-01 Arizona State       3 at Penn State          1      ex      7:30 ET
+2012-12-01 US Under-18 Team    1 at Alabama-Huntsville  1  ot  ex      7:00 CT
+2012-12-02 RIT                 2 at Air Force           3  ot  ah      6:05 MT
+2012-12-04 Michigan Tech       1 at Northern Michigan   2      nc      7:35 ET
+2012-12-05 Clarkson            4 at St. Lawrence        1      ec      7:00 ET
+2012-12-05 Vermont             2 at Dartmouth           4      nc      7:00 ET
+2012-12-06 Boston University   3 at New Hampshire       2      he      7:00 ET
+2012-12-07 Air Force           7 at Bentley             4      ah      7:05 ET
+2012-12-07 American Int'l      7 at Mercyhurst          3      ah      7:05 ET
+2012-12-07 Army                2 at Connecticut         2  ot  ah      7:05 ET
+2012-12-07 Sacred Heart        3 at RIT                 5      ah      7:05 ET
+2012-12-07 Ferris State        2 at Western Michigan    4      cc      7:05 ET
+2012-12-07 Michigan State      2 at Notre Dame          3      cc      7:05 ET
+2012-12-07 Lake Superior       2 at Miami               3      cc      7:35 ET
+2012-12-07 Bowling Green       3 at Alaska-Fairbanks    2      cc      7:05 AT
+2012-12-07 Union               3 at Brown               3  ot  ec      7:00 ET
+2012-12-07 Princeton           1 at Quinnipiac          3      ec      7:00 ET
+2012-12-07 Rensselaer          6 at Yale                1      ec      7:00 ET
+2012-12-07 Boston College      3 at Providence          3  ot  he      7:00 ET
+2012-12-07 Michigan Tech       1 at Wisconsin           1  ot  wc      7:07 CT
+2012-12-07 Nebraska-Omaha      6 at St. Cloud State     5      wc      7:37 CT
+2012-12-07 Minnesota           4 at Colorado College    2      wc      7:37 MT
+2012-12-07 Denver              2 at North Dakota        2  ot  wc      7:37 CT
+2012-12-07 Bemidji State       2 at Minnesota-Duluth    4      wc      7:07 CT
+2012-12-07 Alaska-Anchorage    1 at Minnesota State     3      wc      7:37 CT
+2012-12-07 Penn State          4 at Holy Cross          5  ot  nc      7:05 ET
+2012-12-07 Colgate             6 at Massachusetts       4      nc      7:00 ET
+2012-12-07 Robert Morris       3 at Ohio State          2      nc      7:05 ET
+2012-12-07 Harvard             2 at Merrimack           2  ot  nc      7:30 ET
+2012-12-07 Finlandia           2 at Alabama-Huntsville  5      ex      7:00 CT
+2012-12-08 Air Force           2 at Bentley             2  ot  ah      7:05 ET
+2012-12-08 American Int'l      2 at Mercyhurst          7      ah      7:05 ET
+2012-12-08 Sacred Heart        2 at RIT                 5      ah      7:05 ET
+2012-12-08 Michigan State      1 at Notre Dame          5      cc      7:05 ET
+2012-12-08 Lake Superior       1 at Miami               0      cc      7:35 ET
+2012-12-08 Bowling Green       3 at Alaska-Fairbanks    3  ot  cc      7:05 AT
+2012-12-08 Ferris State        1 at Western Michigan    2      cc      7:05 ET
+2012-12-08 Union               2 at Yale                2  ot  ec      7:00 ET
+2012-12-08 Rensselaer          2 at Brown               2  ot  ec      4:00 ET
+2012-12-08 Quinnipiac          3 at Princeton           0      ec      4:00 ET
+2012-12-08 Maine               0 at Boston University   1      he      7:00 ET
+2012-12-08 Northeastern        0 at Mass.-Lowell        2      he      7:00 ET
+2012-12-08 Nebraska-Omaha      1 at St. Cloud State     2      wc      7:07 CT
+2012-12-08 Minnesota           4 at Colorado College    4  ot  wc      7:07 MT
+2012-12-08 Denver              3 at North Dakota        6      wc      7:07 CT
+2012-12-08 Bemidji State       2 at Minnesota-Duluth    1      wc      7:07 CT
+2012-12-08 Alaska-Anchorage    0 at Minnesota State     3      wc      7:07 CT
+2012-12-08 Michigan Tech       3 at Wisconsin           3  ot  wc      7:07 CT
+2012-12-08 Penn State          1 at Holy Cross          4      nc      5:00 ET
+2012-12-08 St. Lawrence        1 vs Clarkson            3      nc      7:00 ET
+2012-12-08 Ohio State          2 at Robert Morris       2  ot  nc      7:05 ET
+2012-12-08 Colgate             5 at Massachusetts       2      nc      7:00 ET
+2012-12-08 Finlandia           1 at Alabama-Huntsville  4      ex      3:00 CT
+2012-12-08 US Under-18 Team    3 at Merrimack           1      ex      4:00 ET
+2012-12-09 US Under-18 Team    2 at New Hampshire       2  ot  ex      4:00 ET
+2012-12-10 Mass.-Lowell        5 at Harvard             0      nc      7:00 ET
+2012-12-11 Massachusetts       2 at Yale                4      nc      7:00 ET
+2012-12-11 Army                2 at Merrimack           4      nc      7:00 ET
+2012-12-11 Penn State          4 at Fredonia            0      ex      7:00 ET
+2012-12-12 RIT                 2 at Niagara             2  ot  ah      7:00 ET
+2012-12-13 Alabama-Huntsville  0 at Wisconsin           5      nc      7:07 CT
+2012-12-14 Western Michigan    4 at Michigan            1      cc      7:35 ET
+2012-12-14 Miami               1 at Ohio State          1  ot  cc      7:05 ET
+2012-12-14 Northern Michigan   0 at Lake Superior       3      cc      7:35 ET
+2012-12-14 Minnesota State     6 at Nebraska-Omaha      3      wc      7:37 CT
+2012-12-14 Denver              1 at Bemidji State       1  ot  wc      7:37 CT
+2012-12-14 North Dakota        6 at Michigan Tech       1      wc      7:07 ET
+2012-12-14 Minnesota-Duluth    5 at Alaska-Anchorage    1      wc      7:07 AT
+2012-12-14 Colorado College    3 at St. Cloud State     5      wc      7:37 CT
+2012-12-14 Alabama-Huntsville  1 at Wisconsin           4      nc      7:07 CT
+2012-12-15 Western Michigan    0 at Michigan            2      cc      7:35 ET
+2012-12-15 Miami               3 at Ohio State          1      cc      8:05 ET
+2012-12-15 Ferris State        1 at Michigan State      3      cc      7:05 ET
+2012-12-15 Notre Dame          4 at Bowling Green       1      cc      7:05 ET
+2012-12-15 Northern Michigan   1 at Lake Superior       3      cc      7:05 ET
+2012-12-15 Minnesota State     1 at Nebraska-Omaha      5      wc      7:07 CT
+2012-12-15 Denver              1 at Bemidji State       5      wc      7:07 CT
+2012-12-15 North Dakota        4 at Michigan Tech       1      wc      7:07 ET
+2012-12-15 Minnesota-Duluth    2 at Alaska-Anchorage    1      wc      7:07 AT
+2012-12-15 Colorado College    1 at St. Cloud State     3      wc      7:07 CT
+2012-12-15 Vermont             5 at St. Lawrence        2      nc      7:00 ET
+2012-12-15 Mercyhurst          3 at Clarkson            1      nc      7:00 ET
+2012-12-15 Robert Morris       3 at Penn State          2      nc      7:30 ET
+2012-12-18 Canisius            2 at Mercyhurst          3  ot  ah      7:05 ET
+2012-12-20 Vermont             4 at Providence          4  ot  he      7:00 ET
+2012-12-27 Rensselaer          4 at St. Cloud State     3      nc      7:07 CT
+2012-12-27 Russian Red Stars   6 at Army                2      ex      7:05 ET
+2012-12-28 Rensselaer          1 at St. Cloud State     2      nc      7:07 CT
+2012-12-28 Minnesota-Duluth    0 vs Maine               1      nc      7:30 ET
+2012-12-28 Ferris State        3 vs Cornell             5      nc      4:05 ET
+2012-12-28 Ohio State          0 vs Miami               1      nc      7:30 ET
+2012-12-28 Penn State          0 vs Robert Morris       6      nc      4:30 ET
+2012-12-28 Russian Red Stars   2 at Yale               10      ex      7:00 ET
+2012-12-29 Army                1 at Canisius            5      ah      7:05 ET
+2012-12-29 American Int'l      2 at Connecticut         7      ah      7:15 ET
+2012-12-29 Nebraska-Omaha      4 at Quinnipiac          5      nc     12:00 ET
+2012-12-29 Northeastern        5 at Harvard             1      nc      7:00 ET
+2012-12-29 Niagara             0 at Bowling Green       3      nc      7:05 ET
+2012-12-29 Boston University   0 at Denver              6      nc      7:07 MT
+2012-12-29 Air Force           0 at Minnesota           4      nc      7:07 CT
+2012-12-29 Boston College      5 vs Alabama-Huntsville  2      nc      4:07 CT
+2012-12-29 Cornell             4 vs Maine               6      nc      7:30 ET
+2012-12-29 Ferris State        6 vs Minnesota-Duluth    2      nc      4:00 ET
+2012-12-29 Michigan            0 vs Michigan Tech       4      nc      7:05 ET
+2012-12-29 Western Michigan    1 vs Michigan State      1  ot  nc      3:35 ET
+2012-12-29 Princeton           2 vs Merrimack           2  ot  nc      4:00 ET
+2012-12-29 Union               1 at Vermont             2      nc      7:05 ET
+2012-12-29 Minnesota State     3 vs Brown               1      nc      4:05 ET
+2012-12-29 Penn State          5 vs Ohio State          4      nc      4:30 ET
+2012-12-29 Miami               0 vs Robert Morris       1      nc      7:30 ET
+2012-12-30 Army                1 at Canisius            0  ot  ah      7:05 ET
+2012-12-30 Bentley             2 at Mass.-Lowell        3      nc      4:00 ET
+2012-12-30 Yale                4 at Holy Cross          5      nc      2:05 ET
+2012-12-30 Nebraska-Omaha      1 at Quinnipiac          3      nc     12:00 ET
+2012-12-30 Boston College      1 at Minnesota           8      nc      7:07 CT
+2012-12-30 Air Force           6 vs Alabama-Huntsville  1      nc      4:07 CT
+2012-12-30 Western Michigan    0 vs Michigan Tech       4      nc      7:05 ET
+2012-12-30 Michigan            5 vs Michigan State      2      nc      3:35 ET
+2012-12-30 New Hampshire       1 at Dartmouth           4      nc      7:00 ET
+2012-12-30 Bemidji State       3 vs Massachusetts       4      nc      4:00 ET
+2012-12-30 Princeton           3 at Vermont             6      nc      7:05 ET
+2012-12-30 Union               4 vs Merrimack           1      nc      4:00 ET
+2012-12-30 Minnesota State     3 at Connecticut         1      nc      7:15 ET
+2012-12-30 Brown               7 vs American Int'l      2      nc      4:05 ET
+2012-12-31 Sacred Heart        2 at Rensselaer          6      nc      4:00 ET
+2012-12-31 Bemidji State       2 vs New Hampshire       3  ot  nc      4:00 ET
+2012-12-31 Massachusetts       3 at Dartmouth           2      nc      7:00 ET
+2013-01-02 Russian Red Stars   1 at Brown               7      ex      7:00 ET
+2013-01-04 Robert Morris       0 at Army                5      ah      7:05 ET
+2013-01-04 Harvard             2 at Princeton           3  ot  ec      7:00 ET
+2013-01-04 Dartmouth           2 at Quinnipiac          3  ot  ec      7:00 ET
+2013-01-04 Wisconsin           5 at Alaska-Anchorage    3      wc      7:07 AT
+2013-01-04 Colorado College    4 at Nebraska-Omaha      8      wc      7:37 CT
+2013-01-04 Yale                3 at Boston College      3  ot  nc      7:00 ET
+2013-01-04 Sacred Heart        2 at Colgate             6      nc      7:00 ET
+2013-01-04 Western Michigan    6 at Bemidji State       0      nc      7:37 CT
+2013-01-04 Northern Michigan   6 at St. Cloud State     2      nc      7:37 CT
+2013-01-04 Providence          3 at Minnesota State     4  ot  nc      7:37 CT
+2013-01-04 Mercyhurst          1 vs Maine               2      nc      7:00 ET
+2013-01-04 Cornell             1 at Denver              5      nc      7:37 MT
+2013-01-04 Union               1 at Lake Superior       4      nc      7:35 ET
+2013-01-04 Mass.-Lowell        2 at Clarkson            1      nc      7:00 ET
+2013-01-04 Penn State          3 at Connecticut         4      nc      7:00 ET
+2013-01-04 RIT                 4 at St. Lawrence        3      nc      7:00 ET
+2013-01-04 Rensselaer          2 at Boston University   3  ot  nc      7:30 ET
+2013-01-04 Holy Cross          2 at North Dakota        5      nc      7:37 CT
+2013-01-04 US Under 18 Team    5 at Michigan            3      ex      7:35 ET
+2013-01-04 Adrian College      4 at Alabama-Huntsville  2      ex      7:00 CT
+2013-01-05 Air Force           3 at Niagara             4      ah      7:00 ET
+2013-01-05 Robert Morris       4 at Army                1      ah      7:05 ET
+2013-01-05 Michigan State      0 at Ferris State        3      cc      5:05 ET
+2013-01-05 Dartmouth           1 at Princeton           2      ec      4:00 ET
+2013-01-05 Harvard             2 at Quinnipiac          6      ec      7:00 ET
+2013-01-05 Merrimack           4 at Vermont             1      he      7:00 ET
+2013-01-05 Wisconsin           1 at Alaska-Anchorage    0      wc      7:07 AT
+2013-01-05 Colorado College    1 at Nebraska-Omaha      3      wc      7:07 CT
+2013-01-05 Northern Michigan   2 at St. Cloud State     1      nc      7:07 CT
+2013-01-05 Providence          0 at Minnesota State     4      nc      7:07 CT
+2013-01-05 Rensselaer          2 at New Hampshire       5      nc      7:00 ET
+2013-01-05 Mercyhurst          5 at Maine               2      nc      7:00 ET
+2013-01-05 Cornell             1 at Denver              2      nc      7:07 MT
+2013-01-05 Union               1 at Lake Superior       3      nc      7:05 ET
+2013-01-05 Mass.-Lowell        6 at Clarkson            2      nc      7:00 ET
+2013-01-05 Penn State          1 at Connecticut         4      nc      7:00 ET
+2013-01-05 Bentley             6 at Northeastern        3      nc      7:00 ET
+2013-01-05 RIT                 3 at St. Lawrence        4      nc      7:00 ET
+2013-01-05 Sacred Heart        0 at Colgate             9      nc      7:00 ET
+2013-01-05 Western Michigan    2 at Bemidji State       2  ot  nc      7:07 CT
+2013-01-05 Bowling Green       2 at Canisius            2  ot  nc     12:05 ET
+2013-01-05 Holy Cross          2 at North Dakota        3      nc      7:07 CT
+2013-01-05 Vanderbilt          0 at Alabama-Huntsville 11      ex      7:00 CT
+2013-01-06 Bowling Green       3 at Canisius            2      nc     12:05 ET
+2013-01-08 Bowling Green       5 at Michigan            1      cc      7:35 ET
+2013-01-08 Notre Dame          1 at Minnesota           4      nc      7:07 CT
+2013-01-09 Harvard             6 at Boston University   5  ot  nc      7:00 ET
+2013-01-11 Bentley             3 at RIT                 0      ah      7:05 ET
+2013-01-11 Niagara             3 at American Int'l      2      ah      7:05 ET
+2013-01-11 Connecticut         3 at Robert Morris       2      ah      7:05 ET
+2013-01-11 Army                1 at Air Force           4      ah      7:05 MT
+2013-01-11 Holy Cross          2 at Mercyhurst          1      ah      7:05 ET
+2013-01-11 Canisius            5 at Sacred Heart        1      ah      7:05 ET
+2013-01-11 Notre Dame          1 at Michigan State      0      cc      7:05 ET
+2013-01-11 Alaska-Fairbanks    5 at Michigan            4      cc      7:35 ET
+2013-01-11 Lake Superior       1 at Western Michigan    1  ot  cc      7:05 ET
+2013-01-11 Ohio State          3 at Ferris State        1      cc      7:05 ET
+2013-01-11 Miami               1 at Northern Michigan   2      cc      7:35 ET
+2013-01-11 Brown               3 at Clarkson            2      ec      7:00 ET
+2013-01-11 Union               3 at Princeton           2      ec      7:00 ET
+2013-01-11 Yale                5 at St. Lawrence        3      ec      7:00 ET
+2013-01-11 Rensselaer          1 at Quinnipiac          1  ot  ec      7:00 ET
+2013-01-11 Providence          5 at Massachusetts       4      he      7:00 ET
+2013-01-11 Mass.-Lowell        4 at Vermont             2      he      7:05 ET
+2013-01-11 Maine               1 at Northeastern        1  ot  he      7:00 ET
+2013-01-11 Boston University   4 at Merrimack           1      he      7:30 ET
+2013-01-11 New Hampshire       2 at Boston College      5      he      7:00 ET
+2013-01-11 Nebraska-Omaha      4 at Denver              7      wc      7:37 MT
+2013-01-11 Colorado College    4 at North Dakota        3      wc      7:37 CT
+2013-01-11 Michigan Tech       0 at Minnesota-Duluth    1      wc      7:07 CT
+2013-01-11 Wisconsin           4 at Minnesota State     3  ot  wc      7:37 CT
+2013-01-11 Alaska-Anchorage    3 at Minnesota           4      wc      7:07 CT
+2013-01-11 US Under 18 Team    2 at Penn State          5      ex      7:30 ET
+2013-01-11 Oklahoma            1 at Alabama-Huntsville  3      ex      7:30 CT
+2013-01-12 Bentley             0 at RIT                 4      ah      7:05 ET
+2013-01-12 Niagara             3 at American Int'l      1      ah      7:05 ET
+2013-01-12 Connecticut         3 at Robert Morris       4      ah      7:05 ET
+2013-01-12 Army                3 at Air Force           3  ot  ah      7:05 MT
+2013-01-12 Holy Cross          2 at Mercyhurst          4      ah      7:05 ET
+2013-01-12 Canisius            6 at Sacred Heart        3      ah      4:00 ET
+2013-01-12 Alaska-Fairbanks    4 at Michigan            1      cc      7:35 ET
+2013-01-12 Lake Superior       1 at Western Michigan    3      cc      7:05 ET
+2013-01-12 Ohio State          1 at Ferris State        3      cc      7:05 ET
+2013-01-12 Miami               3 at Northern Michigan   3  ot  cc      7:35 ET
+2013-01-12 Notre Dame          1 at Michigan State      4      cc      7:05 ET
+2013-01-12 Yale                3 at Clarkson            1      ec      7:00 ET
+2013-01-12 Harvard             2 at Dartmouth           3      ec      7:30 ET
+2013-01-12 Rensselaer          1 at Princeton           4      ec      4:00 ET
+2013-01-12 Brown               2 at St. Lawrence        3      ec      7:00 ET
+2013-01-12 Union               2 at Quinnipiac          3      ec      7:00 ET
+2013-01-12 Boston College      1 at New Hampshire       2      he      7:00 ET
+2013-01-12 Mass.-Lowell        6 at Vermont             3      he      7:05 ET
+2013-01-12 Maine               0 at Merrimack           6      he      7:00 ET
+2013-01-12 Massachusetts       0 at Providence          2      he      7:00 ET
+2013-01-12 Nebraska-Omaha      3 at Denver              3  ot  wc      7:07 MT
+2013-01-12 Colorado College    3 at North Dakota        5      wc      7:07 CT
+2013-01-12 Michigan Tech       4 at Minnesota-Duluth    5      wc      7:07 CT
+2013-01-12 Wisconsin           2 at Minnesota State     1  ot  wc      7:07 CT
+2013-01-12 Alaska-Anchorage    1 at Minnesota           7      wc      7:07 CT
+2013-01-12 US Under 18 Team    3 at Penn State          0      ex      7:30 ET
+2013-01-12 Oklahoma            0 at Alabama-Huntsville  4      ex      3:00 CT
+2013-01-15 Notre Dame          2 at Bowling Green       4      cc      7:05 ET
+2013-01-15 Neumann             3 at Penn State          2  ot  ex      7:30 ET
+2013-01-17 Providence          1 at Mass.-Lowell        2      he      7:00 ET
+2013-01-18 Robert Morris       1 at American Int'l      4      ah      7:05 ET
+2013-01-18 Mercyhurst          4 at Connecticut         5      ah      7:05 ET
+2013-01-18 Niagara             3 at Holy Cross          5      ah      7:00 ET
+2013-01-18 RIT                 6 at Army                5      ah      7:05 ET
+2013-01-18 Canisius            2 at Bentley             3  ot  ah      7:05 ET
+2013-01-18 Michigan            6 at Lake Superior       4      cc      7:35 ET
+2013-01-18 Western Michigan    2 at Bowling Green       3      cc      7:05 ET
+2013-01-18 Ohio State          2 at Northern Michigan   4      cc      7:35 ET
+2013-01-18 Ferris State        2 at Michigan State      1      cc      7:05 ET
+2013-01-18 Alaska-Fairbanks    5 at Notre Dame          4      cc      7:35 ET
+2013-01-18 Dartmouth           4 at Brown               2      ec      7:00 ET
+2013-01-18 Cornell             3 at Union               2      ec      7:00 ET
+2013-01-18 Colgate             1 at Rensselaer          2      ec      7:00 ET
+2013-01-18 Harvard             0 at Yale                4      ec      7:00 ET
+2013-01-18 Merrimack           1 at Maine               1  ot  he      7:00 ET
+2013-01-18 Northeastern        6 at Boston University   5      he      7:30 ET
+2013-01-18 Massachusetts       5 at Boston College      2      he      7:30 ET
+2013-01-18 Minnesota State     3 at Alaska-Anchorage    3  ot  wc      7:07 AT
+2013-01-18 Bemidji State       0 at Michigan Tech       4      wc      7:07 ET
+2013-01-18 North Dakota        1 at Minnesota           5      wc      7:07 CT
+2013-01-18 Denver              2 at St. Cloud State     5      wc      7:37 CT
+2013-01-18 Minnesota-Duluth    3 at Colorado College    2      wc      7:37 MT
+2013-01-18 Miami               0 at Wisconsin           1      nc      7:07 CT
+2013-01-19 Mercyhurst          5 at Connecticut         0      ah      7:05 ET
+2013-01-19 Niagara             4 at Holy Cross          1      ah      7:00 ET
+2013-01-19 RIT                 4 at Army                2      ah      7:05 ET
+2013-01-19 Air Force           5 at Sacred Heart        2      ah      4:05 ET
+2013-01-19 Canisius            2 at Bentley             7      ah      7:05 ET
+2013-01-19 Robert Morris       5 at American Int'l      4      ah      7:05 ET
+2013-01-19 Michigan            2 at Lake Superior       3      cc      7:05 ET
+2013-01-19 Ohio State          2 at Northern Michigan   3      cc      7:35 ET
+2013-01-19 Bowling Green       1 at Western Michigan    2      cc      7:05 ET
+2013-01-19 Michigan State      2 at Ferris State        5      cc      7:05 ET
+2013-01-19 Alaska-Fairbanks    2 at Notre Dame          1      cc      7:05 ET
+2013-01-19 Harvard             2 at Brown               5      ec      4:00 ET
+2013-01-19 Colgate             1 at Union               2      ec      7:00 ET
+2013-01-19 Cornell             2 at Rensselaer          3      ec      7:00 ET
+2013-01-19 Dartmouth           2 at Yale                4      ec      7:00 ET
+2013-01-19 St. Lawrence        3 at Clarkson            3  ot  ec      7:00 ET
+2013-01-19 Boston College      9 at Northeastern        3      he      7:00 ET
+2013-01-19 Mass.-Lowell        4 at Boston University   3      he      7:00 ET
+2013-01-19 Providence          6 at New Hampshire       5      he      7:00 ET
+2013-01-19 Merrimack           3 at Maine               2      he      7:00 ET
+2013-01-19 North Dakota        4 at Minnesota           4  ot  wc      5:07 CT
+2013-01-19 Denver              1 at St. Cloud State     5      wc      7:07 CT
+2013-01-19 Minnesota-Duluth    1 at Colorado College    5      wc      7:07 MT
+2013-01-19 Minnesota State     4 at Alaska-Anchorage    0      wc      7:07 AT
+2013-01-19 Bemidji State       2 at Michigan Tech       2  ot  wc      7:07 ET
+2013-01-19 Miami               2 at Wisconsin           1      nc      7:07 CT
+2013-01-19 Penn State          4 vs Vermont             2      nc      8:00 ET
+2013-01-20 Air Force           6 at Sacred Heart        3      ah     12:05 ET
+2013-01-22 Harvard             1 at Union               4      ec      7:00 ET
+2013-01-22 Connecticut         1 at Quinnipiac          2      nc      7:00 ET
+2013-01-22 US Under 18 Team    3 at Michigan State      0      ex      7:05 ET
+2013-01-25 Niagara             3 at RIT                 3  ot  ah      7:05 ET
+2013-01-25 Bentley             4 at Holy Cross          1      ah      7:00 ET
+2013-01-25 Robert Morris       0 at Air Force           2      ah      7:05 MT
+2013-01-25 American Int'l      1 at Connecticut         3      ah      7:05 ET
+2013-01-25 Michigan            2 at Western Michigan    3      cc      7:05 ET
+2013-01-25 Northern Michigan   1 at Alaska-Fairbanks    2      cc      7:05 AT
+2013-01-25 Ferris State        3 at Notre Dame          1      cc      7:35 ET
+2013-01-25 Lake Superior       2 at Ohio State          3      cc      7:05 ET
+2013-01-25 Bowling Green       1 at Miami               2      cc      7:35 ET
+2013-01-25 Clarkson            5 at Harvard             1      ec      7:00 ET
+2013-01-25 Brown               1 at Colgate             2      ec      7:00 ET
+2013-01-25 Yale                3 at Cornell             2  ot  ec      7:30 ET
+2013-01-25 St. Lawrence        4 at Dartmouth           2      ec      7:00 ET
+2013-01-25 Massachusetts       3 at Vermont             2      he      7:05 ET
+2013-01-25 Mass.-Lowell        4 at Northeastern        4  ot  he      7:00 ET
+2013-01-25 New Hampshire       2 at Merrimack           3      he      7:30 ET
+2013-01-25 Maine               4 at Boston College      1      he      7:00 ET
+2013-01-25 Boston University   3 at Providence          2      he      7:00 ET
+2013-01-25 St. Cloud State     3 at North Dakota        1      wc      7:37 CT
+2013-01-25 Minnesota State     2 at Minnesota           1      wc      7:07 CT
+2013-01-25 Nebraska-Omaha      5 at Bemidji State       3      wc      7:37 CT
+2013-01-25 Alaska-Anchorage    2 at Wisconsin           5      wc      7:07 CT
+2013-01-25 Penn State          3 at Michigan State      5      nc      7:05 ET
+2013-01-26 Robert Morris       1 at Air Force           4      ah      7:05 MT
+2013-01-26 Holy Cross          2 at Bentley             1      ah      7:00 ET
+2013-01-26 Mercyhurst          2 at Canisius            4      ah      7:05 ET
+2013-01-26 RIT                 4 at Niagara             6      ah      7:00 ET
+2013-01-26 Connecticut         1 at American Int'l      1  ot  ah      7:05 ET
+2013-01-26 Northern Michigan   2 at Alaska-Fairbanks    4      cc      7:05 AT
+2013-01-26 Ferris State        2 at Notre Dame          5      cc      7:05 ET
+2013-01-26 Lake Superior       1 at Ohio State          6      cc      7:05 ET
+2013-01-26 Bowling Green       1 at Miami               3      cc      7:05 ET
+2013-01-26 Michigan            1 at Western Michigan    5      cc      7:05 ET
+2013-01-26 Yale                1 at Colgate             4      ec      7:00 ET
+2013-01-26 Brown               3 at Cornell             0      ec      7:00 ET
+2013-01-26 Clarkson            1 at Dartmouth           5      ec      7:00 ET
+2013-01-26 St. Lawrence        4 at Harvard             3  ot  ec      7:00 ET
+2013-01-26 Northeastern        4 at Mass.-Lowell        5  ot  he      7:00 ET
+2013-01-26 Providence          3 at Boston University   3  ot  he      7:00 ET
+2013-01-26 Maine               3 at Boston College      1      he      7:00 ET
+2013-01-26 Merrimack           2 at New Hampshire       6      he      5:00 ET
+2013-01-26 Massachusetts       2 at Vermont             3      he      7:05 ET
+2013-01-26 St. Cloud State     2 at North Dakota        2  ot  wc      7:07 CT
+2013-01-26 Nebraska-Omaha      2 at Bemidji State       1      wc      7:07 CT
+2013-01-26 Minnesota           4 at Minnesota State     1      wc      7:07 CT
+2013-01-26 Alaska-Anchorage    1 at Wisconsin           2      wc      7:07 CT
+2013-01-26 Rensselaer          2 vs Union               3      nc      7:00 ET
+2013-01-26 Penn State          3 at Michigan State      2      nc      7:05 ET
+2013-01-26 Royal Military      1 at Army                4      ex      7:05 ET
+2013-01-26 US Under 18 Team    1 vs Minnesota-Duluth    3      ex      2:07 CT
+2013-01-27 Sacred Heart        2 at Princeton           5      nc      4:00 ET
+2013-01-29 Canisius            2 at Mercyhurst          5      ah      7:05 ET
+2013-02-01 American Int'l      2 at Air Force           2  ot  ah      7:05 MT
+2013-02-01 Sacred Heart        3 at Robert Morris       6      ah      7:05 ET
+2013-02-01 Army                1 at Mercyhurst          1  ot  ah      7:05 ET
+2013-02-01 Bentley             1 at Niagara             2      ah      7:00 ET
+2013-02-01 Connecticut         3 at RIT                 1      ah      7:05 ET
+2013-02-01 Lake Superior       1 at Bowling Green       4      cc      7:05 ET
+2013-02-01 Michigan State      2 at Michigan            3      cc      7:35 ET
+2013-02-01 Notre Dame          3 at Ohio State          6      cc      7:05 ET
+2013-02-01 Alaska-Fairbanks    1 at Miami               4      cc      7:05 ET
+2013-02-01 Western Michigan    3 at Ferris State        1      cc      7:05 ET
+2013-02-01 Quinnipiac          1 at Brown               1  ot  ec      7:00 ET
+2013-02-01 Dartmouth           2 at Union               2  ot  ec      7:00 ET
+2013-02-01 Cornell             2 at St. Lawrence        4      ec      7:00 ET
+2013-02-01 Harvard             0 at Rensselaer          3      ec      7:00 ET
+2013-02-01 Princeton           2 at Yale                4      ec      7:00 ET
+2013-02-01 Colgate             4 at Clarkson            4  ot  ec      7:00 ET
+2013-02-01 Vermont             1 at Boston College      4      he      7:00 ET
+2013-02-01 Boston University   1 at Massachusetts       5      he      7:00 ET
+2013-02-01 Providence          2 at Maine               2  ot  he      7:00 ET
+2013-02-01 New Hampshire       3 at Northeastern        1      he      7:00 ET
+2013-02-01 Mass.-Lowell        0 at Merrimack           1      he      7:30 ET
+2013-02-01 Denver              3 at Minnesota-Duluth    0      wc      7:07 CT
+2013-02-01 St. Cloud State     4 at Bemidji State       0      wc      7:37 CT
+2013-02-01 Michigan Tech       3 at Nebraska-Omaha      4      wc      7:37 CT
+2013-02-01 Colorado College    2 at Alaska-Anchorage    2  ot  wc      7:07 AT
+2013-02-01 Wisconsin           1 at North Dakota        1  ot  wc      7:37 CT
+2013-02-01 Ohio                1 at Penn State          6      ex      7:00 ET
+2013-02-02 Sacred Heart        4 at Robert Morris       7      ah      7:05 ET
+2013-02-02 Army                1 at Mercyhurst          8      ah      7:05 ET
+2013-02-02 Bentley             4 at Niagara             6      ah      7:00 ET
+2013-02-02 Holy Cross          0 at Canisius            3      ah      3:05 ET
+2013-02-02 Connecticut         1 at RIT                 7      ah      7:05 ET
+2013-02-02 American Int'l      2 at Air Force           1  ot  ah      7:05 MT
+2013-02-02 Western Michigan    2 at Ferris State        2  ot  cc      7:05 ET
+2013-02-02 Notre Dame          2 at Ohio State          2  ot  cc      7:05 ET
+2013-02-02 Alaska-Fairbanks    2 at Miami               6      cc      7:05 ET
+2013-02-02 Michigan            5 vs Michigan State      2      cc      7:05 ET
+2013-02-02 Lake Superior       3 at Bowling Green       7      cc      7:05 ET
+2013-02-02 Colgate             3 at St. Lawrence        3  ot  ec      7:00 ET
+2013-02-02 Dartmouth           0 at Rensselaer          3      ec      7:00 ET
+2013-02-02 Quinnipiac          6 at Yale                2      ec      7:00 ET
+2013-02-02 Cornell             3 at Clarkson            6      ec      7:00 ET
+2013-02-02 Princeton           1 at Brown               5      ec      4:00 ET
+2013-02-02 Merrimack           4 at New Hampshire       1      he      7:00 ET
+2013-02-02 Denver              4 at Minnesota-Duluth    3      wc      7:07 CT
+2013-02-02 St. Cloud State     4 at Bemidji State       1      wc      7:07 CT
+2013-02-02 Michigan Tech       2 at Nebraska-Omaha      1  ot  wc      7:07 CT
+2013-02-02 Colorado College    3 at Alaska-Anchorage    3  ot  wc      7:07 AT
+2013-02-02 Wisconsin           1 at North Dakota        4      wc      7:07 CT
+2013-02-02 Ohio                3 at Penn State          5      ex      7:30 ET
+2013-02-03 Holy Cross          5 at Canisius            1      ah      3:05 ET
+2013-02-03 Mass.-Lowell        3 at Maine               4  ot  he      2:00 ET
+2013-02-04 Boston College      4 vs Harvard             1      nc      8:00 ET
+2013-02-04 Northeastern        3 vs Boston University   2      nc      5:00 ET
+2013-02-05 Mercyhurst          8 at Robert Morris       1      ah      7:05 ET
+2013-02-07 Niagara             0 at Canisius            2      ah      7:05 ET
+2013-02-08 Air Force           4 at Mercyhurst          2      ah      7:05 ET
+2013-02-08 RIT                 0 at Robert Morris       3      ah      7:05 ET
+2013-02-08 Ferris State        3 at Northern Michigan   1      cc      7:35 ET
+2013-02-08 Ohio State          1 at Alaska-Fairbanks    6      cc      7:05 AT
+2013-02-08 Michigan            4 at Notre Dame          7      cc      7:35 ET
+2013-02-08 Miami               0 at Western Michigan    2      cc      7:05 ET
+2013-02-08 Michigan State      1 at Bowling Green       2      cc      7:05 ET
+2013-02-08 Princeton           4 at Colgate             2      ec      7:00 ET
+2013-02-08 Union               1 at Clarkson            2      ec      7:00 ET
+2013-02-08 Quinnipiac          4 at Cornell             1      ec      7:00 ET
+2013-02-08 Rensselaer          4 at St. Lawrence        3  ot  ec      7:00 ET
+2013-02-08 Minnesota State     4 at Minnesota-Duluth    2      wc      7:37 CT
+2013-02-08 North Dakota        2 at Nebraska-Omaha      1      wc      6:37 CT
+2013-02-08 Minnesota           4 at St. Cloud State     2      wc      7:37 CT
+2013-02-08 Bemidji State       2 at Wisconsin           2  ot  wc      7:07 CT
+2013-02-08 Alaska-Anchorage    5 at Michigan Tech       4      wc      7:07 ET
+2013-02-08 Colorado College    1 at Denver              1  ot  wc      7:37 MT
+2013-02-08 Alabama-Huntsville  0 at Penn State          4      nc      7:30 ET
+2013-02-09 Canisius            0 at Niagara             2      ah      7:00 ET
+2013-02-09 RIT                 4 at Robert Morris       3      ah      7:05 ET
+2013-02-09 Air Force           2 at Mercyhurst          2  ot  ah      7:05 ET
+2013-02-09 Michigan            4 at Notre Dame          6      cc      7:05 ET
+2013-02-09 Bowling Green       1 at Michigan State      3      cc      7:05 ET
+2013-02-09 Miami               4 at Western Michigan    0      cc      7:05 ET
+2013-02-09 Ferris State        0 at Northern Michigan   3      cc      7:35 ET
+2013-02-09 Ohio State          3 at Alaska-Fairbanks    1      cc      7:05 AT
+2013-02-09 Quinnipiac          3 at Colgate             2      ec      7:00 ET
+2013-02-09 Rensselaer          6 at Clarkson            2      ec      7:00 ET
+2013-02-09 Princeton           1 at Cornell             0      ec      7:00 ET
+2013-02-09 Union               2 at St. Lawrence        4      ec      7:00 ET
+2013-02-09 Maine               0 at Vermont             3      he      7:05 ET
+2013-02-09 Minnesota           3 at St. Cloud State     4      wc      7:07 CT
+2013-02-09 Bemidji State       2 at Wisconsin           3      wc      7:07 CT
+2013-02-09 Alaska-Anchorage    1 at Michigan Tech       6      wc      5:07 ET
+2013-02-09 Denver              5 at Colorado College    6  ot  wc      7:07 MT
+2013-02-09 Minnesota State     5 at Minnesota-Duluth    1      wc      7:07 CT
+2013-02-09 North Dakota        5 at Nebraska-Omaha      2      wc      4:07 CT
+2013-02-09 Alabama-Huntsville  3 at Penn State          4      nc      7:30 ET
+2013-02-10 American Int'l      3 at Army                0      ah      3:05 ET
+2013-02-10 Connecticut         4 at Bentley             1      ah      7:05 ET
+2013-02-10 Dartmouth           1 at Harvard             1  ot  ec      4:00 ET
+2013-02-10 Providence          3 at New Hampshire       3  ot  he      4:00 ET
+2013-02-10 Massachusetts       2 at Merrimack           4      he      4:00 ET
+2013-02-11 Bentley             0 at Connecticut         9      ah      7:05 ET
+2013-02-11 Boston University   4 vs Harvard             7      nc      4:30 ET
+2013-02-11 Northeastern        3 vs Boston College      6      nc      7:30 ET
+2013-02-12 Yale                0 at Brown               1      ec      7:00 ET
+2013-02-12 Northern Michigan   2 at Michigan Tech       8      nc      7:07 ET
+2013-02-13 New Hampshire       0 at Providence          1      he      7:00 ET
+2013-02-15 Sacred Heart        0 at American Int'l      4      ah      7:05 ET
+2013-02-15 Army                3 at Bentley             5      ah      7:05 ET
+2013-02-15 Holy Cross          4 at Connecticut         1      ah      7:05 ET
+2013-02-15 Canisius            1 at Air Force           3      ah      7:05 MT
+2013-02-15 RIT                 3 at Mercyhurst          2  ot  ah      7:05 ET
+2013-02-15 Robert Morris       3 at Niagara             4      ah      7:00 ET
+2013-02-15 Northern Michigan   5 at Michigan State      3      cc      7:05 ET
+2013-02-15 Western Michigan    1 at Ohio State          1  ot  cc      7:05 ET
+2013-02-15 Notre Dame          1 at Miami               3      cc      7:35 ET
+2013-02-15 Alaska-Fairbanks    1 at Lake Superior       5      cc      7:35 ET
+2013-02-15 Bowling Green       2 at Ferris State        1  ot  cc      7:05 ET
+2013-02-15 St. Lawrence        2 at Quinnipiac          1      ec      7:00 ET
+2013-02-15 Brown               1 at Rensselaer          5      ec      7:00 ET
+2013-02-15 Colgate             1 at Harvard             4      ec      7:00 ET
+2013-02-15 Cornell             4 at Dartmouth           2      ec      7:00 ET
+2013-02-15 Clarkson            3 at Princeton           2      ec      7:00 ET
+2013-02-15 Yale                2 at Union               4      ec      7:00 ET
+2013-02-15 Mass.-Lowell        6 at Massachusetts       3      he      7:00 ET
+2013-02-15 Vermont             2 at Northeastern        1      he      7:00 ET
+2013-02-15 Boston University   3 at Maine               3  ot  he      7:30 ET
+2013-02-15 Boston College      1 at Merrimack           2  ot  he      7:30 ET
+2013-02-15 Minnesota-Duluth    2 at Bemidji State       4      wc      7:37 CT
+2013-02-15 Minnesota           3 at Wisconsin           2      wc      7:07 CT
+2013-02-15 Nebraska-Omaha      3 at Alaska-Anchorage    0      wc      7:07 AT
+2013-02-15 Michigan Tech       2 at Minnesota State     4      wc      7:37 CT
+2013-02-15 Oklahoma            1 at Penn State          4      ex      7:30 ET
+2013-02-16 American Int'l      9 at Sacred Heart        1      ah      7:05 ET
+2013-02-16 Niagara             5 at Robert Morris       6  ot  ah      7:05 ET
+2013-02-16 Canisius            2 at Air Force           3      ah      7:05 MT
+2013-02-16 RIT                 5 at Mercyhurst          3      ah      7:05 ET
+2013-02-16 Connecticut         4 at Holy Cross          1      ah      7:00 ET
+2013-02-16 Bentley             2 at Army                2  ot  ah      7:05 ET
+2013-02-16 Northern Michigan   2 at Michigan State      4      cc      7:05 ET
+2013-02-16 Western Michigan    3 at Ohio State          6      cc      7:05 ET
+2013-02-16 Alaska-Fairbanks    2 at Lake Superior       4      cc      7:05 ET
+2013-02-16 Bowling Green       3 at Ferris State        4      cc      7:05 ET
+2013-02-16 Yale                1 at Rensselaer          4      ec      7:00 ET
+2013-02-16 Cornell             2 at Harvard             2  ot  ec      7:00 ET
+2013-02-16 Colgate             4 at Dartmouth           5      ec      7:00 ET
+2013-02-16 St. Lawrence        3 at Princeton           2      ec      7:00 ET
+2013-02-16 Brown               0 at Union               2      ec      7:00 ET
+2013-02-16 Clarkson            1 at Quinnipiac          2      ec      7:00 ET
+2013-02-16 Massachusetts       2 at Mass.-Lowell        3      he      7:00 ET
+2013-02-16 Vermont             3 at Northeastern        1      he      7:00 ET
+2013-02-16 Boston University   5 at Maine               4  ot  he      7:00 ET
+2013-02-16 Nebraska-Omaha      6 at Alaska-Anchorage    5  ot  wc      7:07 AT
+2013-02-16 Michigan Tech       1 at Minnesota State     6      wc      7:07 CT
+2013-02-16 Minnesota-Duluth    1 at Bemidji State       1  ot  wc      7:07 CT
+2013-02-16 Oklahoma            0 at Penn State          3      ex      3:30 ET
+2013-02-17 Notre Dame          2 vs Miami               1      cc      1:00 CT
+2013-02-17 Merrimack           2 at Providence          2  ot  he      4:00 ET
+2013-02-17 New Hampshire       4 at Boston College      4  ot  he      7:00 ET
+2013-02-17 Minnesota           2 at Wisconsin           3      wc      3:30 CT
+2013-02-19 Holy Cross          3 at Sacred Heart        7      ah      7:00 ET
+2013-02-19 Northeastern        5 at Massachusetts       4  ot  he      7:00 ET
+2013-02-22 Sacred Heart        6 at Bentley             6  ot  ah      7:05 ET
+2013-02-22 Holy Cross          4 at American Int'l      4  ot  ah      7:05 ET
+2013-02-22 Air Force           5 at RIT                 3      ah      7:05 ET
+2013-02-22 Mercyhurst          2 at Niagara             4      ah      7:05 ET
+2013-02-22 Connecticut         4 at Army                3      ah      7:05 ET
+2013-02-22 Robert Morris       4 at Canisius            2      ah      7:05 ET
+2013-02-22 Notre Dame          3 at Western Michigan    3  ot  cc      7:05 ET
+2013-02-22 Miami               5 at Lake Superior       4      cc      7:35 ET
+2013-02-22 Northern Michigan   5 at Bowling Green       2      cc      7:05 ET
+2013-02-22 Michigan State      1 at Alaska-Fairbanks    0      cc      7:05 AT
+2013-02-22 Michigan            5 at Ohio State          3      cc      7:05 ET
+2013-02-22 Dartmouth           0 at Clarkson            4      ec      7:00 ET
+2013-02-22 Rensselaer          1 at Cornell             4      ec      7:00 ET
+2013-02-22 Harvard             2 at St. Lawrence        4      ec      7:00 ET
+2013-02-22 Brown               4 at Princeton           1      ec      7:00 ET
+2013-02-22 Yale                1 at Quinnipiac          4      ec      7:30 ET
+2013-02-22 Union               1 at Colgate             4      ec      7:00 ET
+2013-02-22 Northeastern        2 at Providence          6      he      7:00 ET
+2013-02-22 New Hampshire       4 at Vermont             3      he      7:05 ET
+2013-02-22 Mass.-Lowell        3 at Boston University   0      he      7:30 ET
+2013-02-22 Maine               2 at Massachusetts       0      he      7:00 ET
+2013-02-22 Minnesota-Duluth    3 at Minnesota           5      wc      7:07 CT
+2013-02-22 St. Cloud State     3 at Colorado College    4      wc      7:37 MT
+2013-02-22 North Dakota        4 at Denver              5      wc      8:07 MT
+2013-02-23 Canisius            3 at Robert Morris       6      ah      7:05 ET
+2013-02-23 Niagara             4 at Mercyhurst          2      ah      7:05 ET
+2013-02-23 Air Force           1 at RIT                 2      ah      7:05 ET
+2013-02-23 Connecticut         6 at Army                3      ah      7:05 ET
+2013-02-23 American Int'l      1 at Holy Cross          4      ah      7:00 ET
+2013-02-23 Bentley             1 at Sacred Heart        3      ah      4:00 ET
+2013-02-23 Notre Dame          1 at Western Michigan    1  ot  cc      7:05 ET
+2013-02-23 Miami               2 at Lake Superior       1      cc      7:05 ET
+2013-02-23 Northern Michigan   3 at Bowling Green       5      cc      7:05 ET
+2013-02-23 Michigan State      2 at Alaska-Fairbanks    4      cc      7:05 AT
+2013-02-23 Michigan            6 at Ohio State          3      cc      7:05 ET
+2013-02-23 Union               2 at Cornell             4      ec      7:00 ET
+2013-02-23 Dartmouth           3 at St. Lawrence        2      ec      7:00 ET
+2013-02-23 Yale                4 at Princeton           3      ec      7:00 ET
+2013-02-23 Brown               3 at Quinnipiac          3  ot  ec      7:00 ET
+2013-02-23 Rensselaer          3 at Colgate             2  ot  ec      7:00 ET
+2013-02-23 Harvard             6 at Clarkson            2      ec      7:00 ET
+2013-02-23 Providence          3 at Northeastern        2      he      7:00 ET
+2013-02-23 New Hampshire       1 at Vermont             1  ot  he      4:05 ET
+2013-02-23 Maine               2 at Massachusetts       5      he      7:00 ET
+2013-02-23 Boston University   1 at Mass.-Lowell        3      he      7:00 ET
+2013-02-23 St. Cloud State     5 at Colorado College    2      wc      7:07 MT
+2013-02-23 North Dakota        6 at Denver              1      wc      7:07 MT
+2013-02-23 Minnesota-Duluth    2 at Minnesota           2  ot  wc      7:07 CT
+2013-02-23 US Under-18 Team    3 at Nebraska-Omaha      2      ex      7:07 CT
+2013-02-24 Boston College      2 at Merrimack           1  ot  he      4:00 ET
+2013-02-24 Penn State          0 at Wisconsin           5      nc      7:07 CT
+2013-02-25 Sacred Heart        2 at Holy Cross          4      ah      7:00 ET
+2013-02-25 Penn State          3 at Wisconsin           2  ot  nc      7:07 CT
+2013-02-26 Army                1 at American Int'l      4      ah      4:00 ET
+2013-02-26 Merrimack           2 at Boston University   5      he      7:00 ET
+2013-02-26 Mass.-Lowell        4 at Boston College      2      he      7:00 ET
+2013-03-01 Bentley             1 at American Int'l      2      ah      7:05 ET
+2013-03-01 Mercyhurst          3 at Robert Morris       3  ot  ah      7:05 ET
+2013-03-01 Canisius            6 at RIT                 5      ah      7:05 ET
+2013-03-01 Niagara             2 at Air Force           5      ah      7:05 MT
+2013-03-01 Sacred Heart        4 at Connecticut         4  ot  ah      7:05 ET
+2013-03-01 Holy Cross          6 at Army                3      ah      7:05 ET
+2013-03-01 Ferris State        1 at Michigan            4      cc      7:35 ET
+2013-03-01 Ohio State          3 at Miami               0      cc      7:35 ET
+2013-03-01 Lake Superior       1 at Northern Michigan   3      cc      7:35 ET
+2013-03-01 Bowling Green       3 at Notre Dame          4      cc      7:35 ET
+2013-03-01 Western Michigan    5 at Michigan State      2      cc      7:05 ET
+2013-03-01 Quinnipiac          1 at Harvard             2  ot  ec      7:00 ET
+2013-03-01 Princeton           2 at Dartmouth           2  ot  ec      7:00 ET
+2013-03-01 Colgate             3 at Yale                4  ot  ec      7:00 ET
+2013-03-01 Cornell             4 at Brown               1      ec      7:00 ET
+2013-03-01 St. Lawrence        1 at Union               5      ec      7:00 ET
+2013-03-01 Clarkson            0 at Rensselaer          5      ec      7:00 ET
+2013-03-01 Northeastern        1 at Maine               3      he      7:00 ET
+2013-03-01 Massachusetts       2 at New Hampshire       2  ot  he      7:00 ET
+2013-03-01 Boston College      3 at Providence          2      he      7:00 ET
+2013-03-01 Merrimack           0 at Mass.-Lowell        4      he      7:00 ET
+2013-03-01 Vermont             1 at Boston University   3      he      7:30 ET
+2013-03-01 Minnesota State     1 at Colorado College    4      wc      7:37 MT
+2013-03-01 Michigan Tech       3 at St. Cloud State     5      wc      7:37 CT
+2013-03-01 Bemidji State       2 at North Dakota        4      wc      7:37 CT
+2013-03-01 Wisconsin           4 at Nebraska-Omaha      3      wc      7:37 CT
+2013-03-01 Denver              2 at Minnesota           0      wc      7:07 CT
+2013-03-01 Alabama-Huntsville  2 at Minnesota-Duluth    4      nc      7:07 CT
+2013-03-01 Alaska-Anchorage    1 at Alaska-Fairbanks    2  ot  nc      7:05 AT
+2013-03-02 Niagara             1 at Air Force           6      ah      7:05 MT
+2013-03-02 Robert Morris       1 at Mercyhurst          1  ot  ah      7:05 ET
+2013-03-02 Army                0 at Holy Cross          2      ah      7:00 ET
+2013-03-02 Connecticut         4 at Sacred Heart        0      ah      4:00 ET
+2013-03-02 RIT                 2 at Canisius            4      ah      7:05 ET
+2013-03-02 American Int'l      4 at Bentley             3  ot  ah      7:05 ET
+2013-03-02 Lake Superior       3 at Northern Michigan   0      cc      7:35 ET
+2013-03-02 Bowling Green       1 at Notre Dame          4      cc      7:05 ET
+2013-03-02 Western Michigan    0 at Michigan State      1      cc      7:05 ET
+2013-03-02 Ferris State        1 at Michigan            1  ot  cc      7:35 ET
+2013-03-02 Ohio State          2 at Miami               4      cc      7:05 ET
+2013-03-02 Princeton           2 at Harvard             1  ot  ec      7:00 ET
+2013-03-02 Quinnipiac          4 at Dartmouth           1      ec      7:00 ET
+2013-03-02 Cornell             1 at Yale                2      ec      7:00 ET
+2013-03-02 Colgate             1 at Brown               5      ec      4:00 ET
+2013-03-02 Clarkson            0 at Union               4      ec      7:00 ET
+2013-03-02 St. Lawrence        1 at Rensselaer          4      ec      7:00 ET
+2013-03-02 Providence          5 at Boston College      1      he      4:00 ET
+2013-03-02 Vermont             5 at Boston University   2      he      7:00 ET
+2013-03-02 Northeastern        4 at Maine               4  ot  he      7:00 ET
+2013-03-02 Massachusetts       0 at New Hampshire       4      he      7:00 ET
+2013-03-02 Michigan Tech       5 at St. Cloud State     1      wc      7:07 CT
+2013-03-02 Bemidji State       2 at North Dakota        2  ot  wc      7:07 CT
+2013-03-02 Wisconsin           6 at Nebraska-Omaha      2      wc      7:07 CT
+2013-03-02 Denver              1 at Minnesota           5      wc      7:07 CT
+2013-03-02 Minnesota State     7 at Colorado College    2      wc      7:07 MT
+2013-03-02 Alabama-Huntsville  0 at Minnesota-Duluth    4      nc      7:07 CT
+2013-03-02 Alaska-Fairbanks    3 at Alaska-Anchorage    1      nc      7:07 AT
+2013-03-03 Mass.-Lowell        3 at Merrimack           1      he      4:00 ET
+2013-03-08 Massachusetts       3 at Merrimack           4  ot  he      7:30 ET
+2013-03-08 Boston College      4 at Vermont             4  ot  he      7:05 ET
+2013-03-08 Providence          3 at Mass.-Lowell        0      he      7:00 ET
+2013-03-08 Maine               4 at New Hampshire       3      he      7:30 ET
+2013-03-08 Boston University   4 at Northeastern        2      he      7:30 ET
+2013-03-08 North Dakota        4 at Minnesota State     3      wc      7:37 CT
+2013-03-08 Colorado College    0 at Michigan Tech       2      wc      7:07 ET
+2013-03-08 Alaska-Anchorage    1 at Denver              7      wc      7:37 MT
+2013-03-08 Nebraska-Omaha      4 at Minnesota-Duluth    5      wc      7:07 CT
+2013-03-08 St. Cloud State     4 at Wisconsin           2      wc      7:07 CT
+2013-03-08 Minnesota           4 at Bemidji State       3      wc      7:37 CT
+2013-03-08 Bentley             0 at Canisius            4      nc      7:05 ET
+2013-03-08 Army                1 at Mercyhurst          3      nc      7:35 ET
+2013-03-08 American Int'l      1 at RIT                 2      nc      7:05 ET
+2013-03-08 Sacred Heart        1 at Robert Morris       4      nc      7:05 ET
+2013-03-08 Northern Michigan   2 at Michigan            3      nc      7:35 ET
+2013-03-08 Michigan State      2 at Alaska-Fairbanks    1  ot  nc      7:05 AT
+2013-03-08 Bowling Green       0 at Lake Superior       2      nc      7:35 ET
+2013-03-08 Colgate             2 at St. Lawrence        4      nc      7:00 ET
+2013-03-08 Cornell             4 at Princeton           0      nc      7:00 ET
+2013-03-08 Harvard             2 at Dartmouth           1      nc      7:00 ET
+2013-03-08 Clarkson            0 at Brown               3      nc      7:00 ET
+2013-03-09 Mass.-Lowell        4 at Providence          1      he      7:00 ET
+2013-03-09 Northeastern        0 at Boston University   5      he      7:00 ET
+2013-03-09 Merrimack           0 at Massachusetts       3      he      7:00 ET
+2013-03-09 Maine               4 at New Hampshire       4  ot  he      4:00 ET
+2013-03-09 Boston College      7 at Vermont             2      he      7:05 ET
+2013-03-09 Colorado College    4 at Michigan Tech       3      wc      7:07 ET
+2013-03-09 Nebraska-Omaha      0 at Minnesota-Duluth    6      wc      7:07 CT
+2013-03-09 St. Cloud State     2 at Wisconsin           3      wc      7:07 CT
+2013-03-09 Minnesota           5 at Bemidji State       1      wc      7:07 CT
+2013-03-09 North Dakota        1 at Minnesota State     2  ot  wc      7:07 CT
+2013-03-09 Bentley             1 at Canisius            2      nc      7:05 ET
+2013-03-09 Army                2 at Mercyhurst          5      nc      7:05 ET
+2013-03-09 American Int'l      1 at RIT                 7      nc      7:05 ET
+2013-03-09 Sacred Heart        1 at Robert Morris       6      nc      7:05 ET
+2013-03-09 Michigan State      1 at Alaska-Fairbanks    4      nc      7:05 AT
+2013-03-09 Bowling Green       6 at Lake Superior       3      nc      7:05 ET
+2013-03-09 Northern Michigan   2 at Michigan            6      nc      7:35 ET
+2013-03-09 Cornell             4 at Princeton           2      nc      7:00 ET
+2013-03-09 Harvard             1 at Dartmouth           4      nc      7:00 ET
+2013-03-09 Clarkson            3 at Brown               4      nc      7:00 ET
+2013-03-09 Colgate             1 at St. Lawrence        4      nc      7:00 ET
+2013-03-10 Alaska-Anchorage    1 at Denver              6      wc     11:07 MT
+2013-03-10 Michigan State      4 at Alaska-Fairbanks    3      nc      7:05 AT
+2013-03-10 Bowling Green       7 at Lake Superior       0      nc      7:05 ET
+2013-03-10 Harvard             3 at Dartmouth           6      nc      5:00 ET
+2013-03-14 Maine               2 at Mass.-Lowell        4      nc      7:05 ET
+2013-03-15 Canisius            4 at Air Force           3      nc      7:00 MT
+2013-03-15 Robert Morris       1 at Connecticut         4      nc      7:00 ET
+2013-03-15 RIT                 2 at Niagara             3      nc      7:00 ET
+2013-03-15 Mercyhurst          3 at Holy Cross          2      nc      7:00 ET
+2013-03-15 Michigan            4 at Western Michigan    3      nc      6:00 ET
+2013-03-15 Bowling Green       0 at Notre Dame          1  ot  nc      7:00 ET
+2013-03-15 Ferris State        4 at Ohio State          2      nc      7:00 ET
+2013-03-15 Michigan State      3 at Miami               0      nc      7:00 ET
+2013-03-15 Dartmouth           1 at Union               4      nc      7:00 ET
+2013-03-15 Cornell             3 at Quinnipiac          2      nc      7:00 ET
+2013-03-15 St. Lawrence        1 at Yale                6      nc      7:00 ET
+2013-03-15 Brown               3 at Rensselaer          1      nc      7:00 ET
+2013-03-15 Maine               1 at Mass.-Lowell        2  ot  nc      7:05 ET
+2013-03-15 New Hampshire       2 at Providence          3      nc      7:00 ET
+2013-03-15 Merrimack           0 at Boston University   3      nc      7:30 ET
+2013-03-15 Vermont             2 at Boston College      4      nc      7:00 ET
+2013-03-15 Nebraska-Omaha      3 at Minnesota State     4  ot  nc      7:37 CT
+2013-03-15 Michigan Tech       3 at North Dakota        5      nc      7:37 CT
+2013-03-15 Minnesota-Duluth    1 at Wisconsin           3      nc      7:37 CT
+2013-03-15 Bemidji State       1 at Minnesota           2  ot  nc      7:37 CT
+2013-03-15 Colorado College    3 at Denver              5      nc      7:37 MT
+2013-03-15 Alaska-Anchorage    1 at St. Cloud State     6      nc      7:37 CT
+2013-03-16 Canisius            4 at Air Force           3  ot  nc      7:00 MT
+2013-03-16 Robert Morris       3 at Connecticut         4      nc      7:00 ET
+2013-03-16 RIT                 1 at Niagara             2  ot  nc      7:00 ET
+2013-03-16 Mercyhurst          2 at Holy Cross          3      nc      7:05 ET
+2013-03-16 Bowling Green       3 at Notre Dame          4      nc      7:00 ET
+2013-03-16 Ferris State        1 at Ohio State          3      nc      7:00 ET
+2013-03-16 Michigan State      1 at Miami               4      nc      7:00 ET
+2013-03-16 Michigan            5 at Western Michigan    1      nc      7:05 ET
+2013-03-16 Dartmouth           2 at Union               5      nc      7:00 ET
+2013-03-16 Cornell             0 at Quinnipiac         10      nc      7:00 ET
+2013-03-16 St. Lawrence        0 at Yale                3      nc      7:00 ET
+2013-03-16 Brown               2 at Rensselaer          6      nc      7:00 ET
+2013-03-16 New Hampshire       4 at Providence          1      nc      4:00 ET
+2013-03-16 Merrimack           3 at Boston University   5      nc      7:00 ET
+2013-03-16 Vermont             1 at Boston College      4      nc      7:00 ET
+2013-03-16 Nebraska-Omaha      2 at Minnesota State     1      nc      7:07 CT
+2013-03-16 Michigan Tech       2 at North Dakota        1      nc      7:07 CT
+2013-03-16 Minnesota-Duluth    1 at Wisconsin           4      nc      7:07 CT
+2013-03-16 Bemidji State       3 at Minnesota           4      nc      7:07 CT
+2013-03-16 Colorado College    2 at Denver              1      nc      7:07 MT
+2013-03-16 Alaska-Anchorage    1 at St. Cloud State     5      nc      7:07 CT
+2013-03-17 Mercyhurst          1 at Holy Cross          0      nc      5:05 ET
+2013-03-17 Ferris State        2 at Ohio State          3      nc      7:05 ET
+2013-03-17 Michigan State      1 at Miami               4      nc      7:05 ET
+2013-03-17 Brown               3 at Rensselaer          2      nc      7:00 ET
+2013-03-17 Cornell             2 at Quinnipiac          3 2ot  nc      7:30 ET
+2013-03-17 New Hampshire       2 at Providence          3      nc      4:30 ET
+2013-03-17 Colorado College    4 at Denver              3      nc      7:07 MT
+2013-03-17 Michigan Tech       0 at North Dakota        6      nc      7:07 CT
+2013-03-17 Nebraska-Omaha      1 at Minnesota State     3      nc      7:07 CT
